@@ -1,0 +1,387 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>AI Radar — Veille IA</title>
+  <script src="https://cdn.tailwindcss.com"></script>
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link href="https://fonts.googleapis.com/css2?family=Source+Serif+4:opsz,wght@8..60,400;8..60,600;8..60,700&family=Inter:wght@400;500;600&display=swap" rel="stylesheet">
+  <script>
+    tailwind.config = {
+      theme: {
+        extend: {
+          fontFamily: {
+            serif: ['"Source Serif 4"', 'Georgia', 'serif'],
+            sans: ['Inter', 'system-ui', 'sans-serif'],
+          },
+          colors: {
+            warm: { 50: '#FAFAF9', 100: '#F5F5F4', 200: '#E7E5E4', 800: '#292524', 900: '#1C1917' },
+          }
+        }
+      }
+    }
+  </script>
+  <style>
+    body { background: #FAFAF9; }
+    .fade-in { animation: fadeIn 0.3s ease-out; }
+    @keyframes fadeIn { from { opacity: 0; transform: translateY(6px); } to { opacity: 1; transform: translateY(0); } }
+    .cat-pill { transition: all 0.15s ease; }
+    .cat-pill:hover { transform: translateY(-1px); }
+    .article-card { transition: box-shadow 0.2s ease, border-color 0.2s ease; }
+    .article-card:hover { box-shadow: 0 2px 12px rgba(0,0,0,0.06); border-color: #D6D3D1; }
+    .article-card.is-read { opacity: 0.55; }
+    .toast { animation: slideUp 0.3s ease, fadeOut 0.3s ease 1.7s forwards; }
+    @keyframes slideUp { from { transform: translateY(20px); opacity: 0; } to { transform: translateY(0); opacity: 1; } }
+    @keyframes fadeOut { to { opacity: 0; } }
+    ::-webkit-scrollbar { width: 6px; }
+    ::-webkit-scrollbar-thumb { background: #D6D3D1; border-radius: 3px; }
+  </style>
+</head>
+<body class="text-warm-900 font-sans antialiased">
+
+  <div id="app" class="max-w-4xl mx-auto px-4 sm:px-6 py-8">
+
+    <!-- HEADER -->
+    <header class="mb-8">
+      <div class="flex items-start justify-between flex-wrap gap-3">
+        <div>
+          <h1 class="font-serif text-3xl sm:text-4xl font-bold tracking-tight text-warm-900">AI Radar</h1>
+          <p class="text-sm text-stone-400 mt-1 font-sans">Veille IA pour ton équipe · Actualisé toutes les 4h</p>
+        </div>
+        <div id="meta" class="text-xs text-stone-400 text-right mt-1">
+          <div id="last-updated"></div>
+          <div id="sources-count"></div>
+        </div>
+      </div>
+    </header>
+
+    <!-- CETTE SEMAINE -->
+    <section id="week-section" class="mb-10 hidden">
+      <h2 class="font-serif text-lg font-semibold text-warm-800 mb-3 flex items-center gap-2">
+        <span>📌</span> Cette semaine
+      </h2>
+      <div id="week-articles" class="grid gap-2"></div>
+    </section>
+
+    <!-- SEARCH + FILTERS -->
+    <div class="sticky top-0 z-10 bg-warm-50 pt-2 pb-4 -mx-4 px-4 sm:-mx-6 sm:px-6 border-b border-stone-200/60">
+      <!-- Search -->
+      <div class="relative mb-3">
+        <svg class="absolute left-3 top-1/2 -translate-y-1/2 w-4 h-4 text-stone-400" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+          <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M21 21l-6-6m2-5a7 7 0 11-14 0 7 7 0 0114 0z"/>
+        </svg>
+        <input id="search" type="text" placeholder="Rechercher un article, une source…"
+          class="w-full pl-10 pr-4 py-2.5 bg-white border border-stone-200 rounded-lg text-sm focus:outline-none focus:ring-2 focus:ring-stone-300 focus:border-transparent placeholder-stone-400">
+      </div>
+
+      <!-- Category filters -->
+      <div class="flex flex-wrap gap-2" id="filters"></div>
+
+      <!-- Toggle read -->
+      <div class="flex items-center gap-4 mt-3">
+        <label class="flex items-center gap-2 text-xs text-stone-500 cursor-pointer select-none">
+          <input type="checkbox" id="hide-read" class="rounded border-stone-300 text-stone-600 focus:ring-stone-300">
+          Masquer les articles lus
+        </label>
+        <button id="mark-all-read" class="text-xs text-stone-400 hover:text-stone-600 underline underline-offset-2">
+          Tout marquer comme lu
+        </button>
+      </div>
+    </div>
+
+    <!-- ARTICLES BY DAY -->
+    <main id="articles" class="mt-6"></main>
+
+    <!-- EMPTY STATE -->
+    <div id="empty" class="hidden text-center py-16">
+      <div class="text-4xl mb-3">🔍</div>
+      <p class="text-stone-400 text-sm">Aucun article pour ces filtres.</p>
+    </div>
+
+    <!-- FOOTER -->
+    <footer class="mt-12 pt-6 border-t border-stone-200/60 text-xs text-stone-400 flex justify-between">
+      <span>AI Radar · <span id="total-count">0</span> articles · <span id="src-count">0</span> sources</span>
+      <span>Refresh auto toutes les 4h</span>
+    </footer>
+  </div>
+
+  <!-- Toast -->
+  <div id="toast-container" class="fixed bottom-6 left-1/2 -translate-x-1/2 z-50"></div>
+
+  <script>
+    // ── CONFIG ─────────────────────────────────────────────────────
+    const CATEGORIES = {
+      "Big Players":              { emoji: "🏢", color: "#3B82F6", bg: "#EFF6FF", border: "#BFDBFE" },
+      "Design & Créatif":         { emoji: "🎨", color: "#EC4899", bg: "#FDF2F8", border: "#FBCFE8" },
+      "Business & Productivité":  { emoji: "📋", color: "#D97706", bg: "#FFFBEB", border: "#FDE68A" },
+      "Dev & Optimisation":       { emoji: "⚡", color: "#059669", bg: "#ECFDF5", border: "#A7F3D0" },
+      "Agents & Automatisation":  { emoji: "🤖", color: "#7C3AED", bg: "#F5F3FF", border: "#DDD6FE" },
+      "Gaming & Créatif":         { emoji: "🎮", color: "#DC2626", bg: "#FEF2F2", border: "#FECACA" },
+      "Produits & Apps":          { emoji: "📱", color: "#0891B2", bg: "#ECFEFF", border: "#A5F3FC" },
+      "APIs & Intégrations":      { emoji: "🔌", color: "#4F46E5", bg: "#EEF2FF", border: "#C7D2FE" },
+      "Sécurité & Éthique":       { emoji: "🛡️", color: "#475569", bg: "#F8FAFC", border: "#CBD5E1" },
+      "Funding & Business":       { emoji: "💰", color: "#16A34A", bg: "#F0FDF4", border: "#BBF7D0" },
+      "Tutos & Guides":           { emoji: "🎓", color: "#C026D3", bg: "#FDF4FF", border: "#F0ABFC" },
+    };
+
+    // ── STATE ──────────────────────────────────────────────────────
+    let allArticles = [];
+    let activeCats = new Set(["all"]);
+    let searchQuery = "";
+    let hideRead = false;
+    let readSet = new Set(JSON.parse(localStorage.getItem("ai-radar-read") || "[]"));
+
+    function saveRead() {
+      localStorage.setItem("ai-radar-read", JSON.stringify([...readSet]));
+    }
+
+    // ── LOAD DATA ──────────────────────────────────────────────────
+    async function loadFeeds() {
+      try {
+        const res = await fetch("data/feeds.json");
+        const data = await res.json();
+        allArticles = data.articles || [];
+
+        // Decode HTML entities in titles
+        const txt = document.createElement("textarea");
+        allArticles.forEach(a => {
+          txt.innerHTML = a.title; a.title = txt.value;
+          txt.innerHTML = a.description; a.description = txt.value;
+        });
+
+        document.getElementById("last-updated").textContent =
+          `Mis à jour : ${new Date(data.lastUpdated).toLocaleString("fr-CA", { dateStyle: "medium", timeStyle: "short" })}`;
+        document.getElementById("sources-count").textContent =
+          `${data.sourcesOk}/${data.sourcesTotal} sources actives`;
+        document.getElementById("total-count").textContent = data.totalArticles;
+        document.getElementById("src-count").textContent = data.sourcesOk;
+
+        renderFilters();
+        renderWeek();
+        renderArticles();
+      } catch (e) {
+        document.getElementById("articles").innerHTML =
+          `<div class="text-center py-16 text-stone-400"><div class="text-4xl mb-3">⚠️</div><p class="text-sm">Impossible de charger les données.<br>Le fichier feeds.json n'existe pas encore ?</p></div>`;
+      }
+    }
+
+    // ── FILTERS ────────────────────────────────────────────────────
+    function renderFilters() {
+      const container = document.getElementById("filters");
+      const counts = {};
+      allArticles.forEach(a => counts[a.category] = (counts[a.category] || 0) + 1);
+
+      let html = `<button data-cat="all" class="cat-pill px-3 py-1.5 rounded-full text-xs font-medium border cursor-pointer
+        ${activeCats.has("all") ? "bg-warm-900 text-white border-warm-900" : "bg-white text-stone-600 border-stone-200 hover:border-stone-300"}">
+        Tout <span class="ml-1 opacity-60">${allArticles.length}</span></button>`;
+
+      for (const [name, cfg] of Object.entries(CATEGORIES)) {
+        const count = counts[name] || 0;
+        if (count === 0) continue;
+        const active = activeCats.has(name);
+        html += `<button data-cat="${name}" class="cat-pill px-3 py-1.5 rounded-full text-xs font-medium border cursor-pointer"
+          style="background:${active ? cfg.color : cfg.bg};color:${active ? '#fff' : cfg.color};border-color:${active ? cfg.color : cfg.border}">
+          ${cfg.emoji} ${name} <span class="ml-1 opacity-60">${count}</span></button>`;
+      }
+      container.innerHTML = html;
+
+      container.querySelectorAll("button").forEach(btn => {
+        btn.addEventListener("click", () => {
+          const cat = btn.dataset.cat;
+          if (cat === "all") {
+            activeCats = new Set(["all"]);
+          } else {
+            activeCats.delete("all");
+            if (activeCats.has(cat)) activeCats.delete(cat);
+            else activeCats.add(cat);
+            if (activeCats.size === 0) activeCats.add("all");
+          }
+          renderFilters();
+          renderArticles();
+        });
+      });
+    }
+
+    // ── CETTE SEMAINE ──────────────────────────────────────────────
+    function renderWeek() {
+      const section = document.getElementById("week-section");
+      const container = document.getElementById("week-articles");
+
+      // Top sources = authoritative sources for "this week" picks
+      const topSources = new Set(["Google AI", "OpenAI", "Anthropic", "DeepMind", "Meta AI", "Microsoft AI", "NVIDIA", "Mistral AI", "Hugging Face"]);
+      const now = Date.now();
+      const weekMs = 7 * 24 * 60 * 60 * 1000;
+
+      const weekPicks = allArticles
+        .filter(a => topSources.has(a.source) && (now - new Date(a.date).getTime()) < weekMs)
+        .slice(0, 5);
+
+      if (weekPicks.length === 0) { section.classList.add("hidden"); return; }
+      section.classList.remove("hidden");
+
+      container.innerHTML = weekPicks.map(a => {
+        const cfg = CATEGORIES[a.category] || {};
+        return `<a href="${a.link}" target="_blank" rel="noopener"
+          class="flex items-start gap-3 p-3 rounded-lg bg-white border border-stone-200/60 hover:border-stone-300 transition-all group">
+          <span class="mt-0.5 text-xs px-2 py-0.5 rounded-full font-medium" style="background:${cfg.bg};color:${cfg.color}">${cfg.emoji}</span>
+          <div class="flex-1 min-w-0">
+            <div class="text-sm font-medium text-warm-800 group-hover:text-warm-900 leading-snug line-clamp-2">${a.title}</div>
+            <div class="text-xs text-stone-400 mt-1">${a.source} · ${formatDate(a.date)}</div>
+          </div>
+        </a>`;
+      }).join("");
+    }
+
+    // ── ARTICLES ───────────────────────────────────────────────────
+    function renderArticles() {
+      const container = document.getElementById("articles");
+      const emptyEl = document.getElementById("empty");
+
+      // Filter
+      let filtered = allArticles.filter(a => {
+        if (!activeCats.has("all") && !activeCats.has(a.category)) return false;
+        if (hideRead && readSet.has(a.id)) return false;
+        if (searchQuery) {
+          const q = searchQuery.toLowerCase();
+          return a.title.toLowerCase().includes(q) || a.source.toLowerCase().includes(q) || a.description.toLowerCase().includes(q);
+        }
+        return true;
+      });
+
+      if (filtered.length === 0) {
+        container.innerHTML = "";
+        emptyEl.classList.remove("hidden");
+        return;
+      }
+      emptyEl.classList.add("hidden");
+
+      // Group by day
+      const groups = {};
+      filtered.forEach(a => {
+        const day = new Date(a.date).toLocaleDateString("fr-CA", { year: "numeric", month: "long", day: "numeric" });
+        if (!groups[day]) groups[day] = [];
+        groups[day].push(a);
+      });
+
+      let html = "";
+      for (const [day, articles] of Object.entries(groups)) {
+        const isToday = day === new Date().toLocaleDateString("fr-CA", { year: "numeric", month: "long", day: "numeric" });
+        const label = isToday ? "Aujourd'hui" : day;
+
+        html += `<div class="mb-8 fade-in">
+          <h3 class="font-serif text-base font-semibold text-warm-800 mb-3 flex items-center gap-2">
+            <span class="w-2 h-2 rounded-full ${isToday ? 'bg-emerald-400' : 'bg-stone-300'}"></span>
+            ${label}
+            <span class="text-xs font-normal text-stone-400 ml-1">${articles.length} article${articles.length > 1 ? 's' : ''}</span>
+          </h3>
+          <div class="grid gap-2">`;
+
+        for (const a of articles) {
+          const cfg = CATEGORIES[a.category] || {};
+          const isRead = readSet.has(a.id);
+          html += `<article class="article-card ${isRead ? 'is-read' : ''} bg-white border border-stone-200/60 rounded-lg p-4 relative" data-id="${a.id}">
+            <div class="flex items-start gap-3">
+              <!-- Read indicator -->
+              <button class="read-btn mt-1 flex-shrink-0 w-4 h-4 rounded-full border-2 transition-colors
+                ${isRead ? 'bg-stone-300 border-stone-300' : 'border-stone-300 hover:border-stone-400'}"
+                title="${isRead ? 'Marquer non lu' : 'Marquer lu'}" data-id="${a.id}"></button>
+              <div class="flex-1 min-w-0">
+                <div class="flex items-center gap-2 mb-1 flex-wrap">
+                  <span class="text-xs px-2 py-0.5 rounded-full font-medium" style="background:${cfg.bg};color:${cfg.color}">${cfg.emoji} ${a.category}</span>
+                  <span class="text-xs text-stone-400">${a.source}</span>
+                  <span class="text-xs text-stone-300">·</span>
+                  <span class="text-xs text-stone-400">${formatTime(a.date)}</span>
+                </div>
+                <a href="${a.link}" target="_blank" rel="noopener"
+                  class="block font-serif text-base font-semibold text-warm-800 hover:text-warm-900 leading-snug mb-1.5">
+                  ${a.title}
+                </a>
+                <p class="text-sm text-stone-500 leading-relaxed line-clamp-2">${a.description}</p>
+                <div class="flex items-center gap-3 mt-2.5">
+                  <a href="${a.link}" target="_blank" rel="noopener"
+                    class="text-xs font-medium text-stone-500 hover:text-warm-900 transition-colors">
+                    Lire →
+                  </a>
+                  <button class="share-btn text-xs text-stone-400 hover:text-stone-600 transition-colors"
+                    data-title="${a.title.replace(/"/g, '&quot;')}" data-link="${a.link}" data-source="${a.source}">
+                    Partager
+                  </button>
+                </div>
+              </div>
+            </div>
+          </article>`;
+        }
+
+        html += `</div></div>`;
+      }
+
+      container.innerHTML = html;
+
+      // Event listeners
+      container.querySelectorAll(".read-btn").forEach(btn => {
+        btn.addEventListener("click", (e) => {
+          e.stopPropagation();
+          const id = btn.dataset.id;
+          if (readSet.has(id)) readSet.delete(id); else readSet.add(id);
+          saveRead();
+          renderArticles();
+        });
+      });
+
+      container.querySelectorAll(".share-btn").forEach(btn => {
+        btn.addEventListener("click", () => {
+          const msg = `📡 *${btn.dataset.title}*\n_${btn.dataset.source}_\n${btn.dataset.link}`;
+          navigator.clipboard.writeText(msg).then(() => showToast("Copié pour Slack/Discord !"));
+        });
+      });
+    }
+
+    // ── HELPERS ────────────────────────────────────────────────────
+    function formatDate(d) {
+      return new Date(d).toLocaleDateString("fr-CA", { day: "numeric", month: "short" });
+    }
+
+    function formatTime(d) {
+      const now = Date.now();
+      const ms = now - new Date(d).getTime();
+      const h = Math.floor(ms / 3600000);
+      if (h < 1) return "< 1h";
+      if (h < 24) return `${h}h`;
+      const days = Math.floor(h / 24);
+      if (days < 7) return `${days}j`;
+      return formatDate(d);
+    }
+
+    function showToast(msg) {
+      const container = document.getElementById("toast-container");
+      const el = document.createElement("div");
+      el.className = "toast bg-warm-900 text-white text-sm px-4 py-2.5 rounded-lg shadow-lg";
+      el.textContent = msg;
+      container.appendChild(el);
+      setTimeout(() => el.remove(), 2000);
+    }
+
+    // ── EVENT LISTENERS ────────────────────────────────────────────
+    document.getElementById("search").addEventListener("input", (e) => {
+      searchQuery = e.target.value;
+      renderArticles();
+    });
+
+    document.getElementById("hide-read").addEventListener("change", (e) => {
+      hideRead = e.target.checked;
+      renderArticles();
+    });
+
+    document.getElementById("mark-all-read").addEventListener("click", () => {
+      allArticles.forEach(a => readSet.add(a.id));
+      saveRead();
+      renderArticles();
+      showToast("Tous les articles marqués comme lus");
+    });
+
+    // ── INIT ───────────────────────────────────────────────────────
+    loadFeeds();
+  </script>
+</body>
+</html>
