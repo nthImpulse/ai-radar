@@ -1,10 +1,118 @@
 {
-  "lastUpdated": "2026-02-20T13:17:46.903Z",
+  "lastUpdated": "2026-02-20T16:53:01.559Z",
   "totalArticles": 469,
   "sourcesOk": 36,
   "sourcesTotal": 37,
   "errors": [],
   "articles": [
+    {
+      "id": "zez3fi",
+      "title": "Integrate external tools with Amazon Quick Agents using Model Context Protocol (MCP) - Amazon Web Services (AWS)",
+      "description": "Integrate external tools with Amazon Quick Agents using Model Context Protocol (MCP) Amazon Web Services (AWS)",
+      "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQZkxQNkJMcnp5ZVplZmItS21YR2ZZeWhPWGZaOS1ra2ZHYUVteE9RUXVTam9KOEI2TWN2VVAzRTRXQmxyVkphRS0yMzNKRTZjejhmYkxLOXR2YTRHR1Q0NFFQamdvWldadUQ0X0Q1dFRDcE9pSjIwR2dyUFptT3pXTXhzOXlQYnRvckxfTDBWalM5bGc3Sk52SnFwTUpvNFN2OEpKdFdlcXJyT2dIUFpBa25qVEV1OHhIM2FIY0xneTFUbUdNc1pGTA?oc=5",
+      "date": "2026-02-20T16:26:21.000Z",
+      "source": "AI Agents",
+      "category": "Agents & Automatisation"
+    },
+    {
+      "id": "ufrei6",
+      "title": "Toy Story 5 takes aim at creepy AI toys: ‘I’m always listening’",
+      "description": "Addictive, AI-enabled tablets are taking over, and also, Woody is balding in the new Toy Story movie, out June 19.",
+      "link": "https://techcrunch.com/2026/02/20/toy-story-5-takes-aim-at-creepy-ai-toys-im-always-listening/",
+      "date": "2026-02-20T16:25:54.000Z",
+      "source": "TechCrunch AI",
+      "category": "Funding & Business"
+    },
+    {
+      "id": "n871sz",
+      "title": "New AI Launch News: Weaviate Agent Skills Powers Faster AI App Development - TechBullion",
+      "description": "New AI Launch News: Weaviate Agent Skills Powers Faster AI App Development TechBullion",
+      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQaTkwbVFhQkhvbmdTYzQ4Ni03MWl3NzNmZzV0NjNFbFRSOFV4aWFXTzZFQ0RYTnM5T2hCUThBUU0zbVgtR0s4SHZ2Rmhyak1lN1FUVG5LaDROdk1kbmhwUEdHeVJzSTZ4RVM1ZEdsbG9iOUNPaGd1NUpPUDFPMGxCQ05GZFNnWVpOeDRLWHhadE1aUm1pUmRTODdjYl92Q0E?oc=5",
+      "date": "2026-02-20T16:17:50.000Z",
+      "source": "AI Coding",
+      "category": "Dev & Optimisation"
+    },
+    {
+      "id": "n86gut",
+      "title": "It’s still frothy in AI, but memory chips are now the bottleneck - SiliconANGLE",
+      "description": "It’s still frothy in AI, but memory chips are now the bottleneck SiliconANGLE",
+      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPc2dNTmtBdko3MzVidmtfZkliVmhCTG9VSzcwenRrTFRlYmRsMy15S0lTSWVZVTR3X1RUaHJPMFM2NWMxcEZsZzlOVTFwM1BzZHlkLXZpVlNLVHNNX09hRHhxNmYwLUh0NFFUb1lVTmdWM2sxVlB0ZEpheFVDaVZTWkhYaTdwVTg?oc=5",
+      "date": "2026-02-20T15:30:31.000Z",
+      "source": "AI Funding",
+      "category": "Funding & Business"
+    },
+    {
+      "id": "s33d2g",
+      "title": "AI’s promise to indie filmmakers: faster, cheaper, lonelier",
+      "description": "AI expands access to filmmaking for resource-constrained creators. But as efficiency becomes the industry’s north star, creativity risks being overwhelmed by a deluge of low-effort, AI-generated content.",
+      "link": "https://techcrunch.com/2026/02/20/ais-promise-to-indie-filmmakers-faster-cheaper-lonelier/",
+      "date": "2026-02-20T15:30:00.000Z",
+      "source": "TechCrunch AI",
+      "category": "Funding & Business"
+    },
+    {
+      "id": "vjq822",
+      "title": "Peak XV raises $1.3B, doubles down on AI as global VC rivalry in India heats up",
+      "description": "Peak XV says most of its new capital will target India as the firm prioritizes AI, fintech and cross-border bets while navigating recent partner departures.",
+      "link": "https://techcrunch.com/2026/02/20/peak-xv-raises-1-3b-doubles-down-on-ai-as-global-vc-rivalry-in-india-heats-up/",
+      "date": "2026-02-20T15:10:40.000Z",
+      "source": "TechCrunch AI",
+      "category": "Funding & Business"
+    },
+    {
+      "id": "dedbq6",
+      "title": "The 6 Best AI Coding Assistant of 2026 - autogpt.net",
+      "description": "The 6 Best AI Coding Assistant of 2026 autogpt.net",
+      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBUdW5ZUGVPanNUN3NLUmsyYXVzNVk3bTJFaEZWRXIyVE5WTHlJUUZxNGVKNml4dnJsNmllWnNqa05MbndrNzRMYlJMZWxsU3ZqVllUZXhtSW9SUWxLdkE?oc=5",
+      "date": "2026-02-20T15:06:58.000Z",
+      "source": "AI Coding",
+      "category": "Dev & Optimisation"
+    },
+    {
+      "id": "hbbijm",
+      "title": "Ericsson, Mistral AI target AI for network ops - RCR Wireless News",
+      "description": "Ericsson, Mistral AI target AI for network ops RCR Wireless News",
+      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1FZEtOZ25wZkNNelg0NTU4S1A5aEQ3UDNwUWRkdDl3c3FNdnU3UDh6Y1RWUGJKMjgtdE13T2F6Tzk1VFlzQnVzQ2p0ZzFObjI2X043cHYyX0JwVnRYQU9uTWVKbFFfbmJUSzJv?oc=5",
+      "date": "2026-02-20T15:05:19.000Z",
+      "source": "Mistral AI",
+      "category": "Big Players"
+    },
+    {
+      "id": "b865fq",
+      "title": "TechCrunch Disrupt 2026 Super Early Bird rates end in 1 week",
+      "description": "The lowest ticket rates of the year for TechCrunch Disrupt 2026 ends next Friday, February 27. Save up to $680 on your pass. Register now before prices increase.",
+      "link": "https://techcrunch.com/2026/02/20/techcrunch-disrupt-2026-super-early-bird-rates-end-in-1-week/",
+      "date": "2026-02-20T15:00:00.000Z",
+      "source": "TechCrunch AI",
+      "category": "Funding & Business"
+    },
+    {
+      "id": "53l9u3",
+      "title": "BrandJet AI Launches Artemis MCP and Introduces Forward Deployed AE Role for AI-Driven GTM Teams - PR Newswire",
+      "description": "BrandJet AI Launches Artemis MCP and Introduces Forward Deployed AE Role for AI-Driven GTM Teams PR Newswire",
+      "link": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxPSEhjUWh5VVl1ZUNzWmdpUVlsT0ZRdGg1d1FvSkRnMkt5aHRVLU5wSUM4ZVUzenhscjNiRmVObkR5Qjd4NmY1cFpMenduQnJoX1pwOVJISl9QaE1yeDBXVE1vVFc5ZnpIQ1pVSDg3YURPMmtWMnJtQUtsYy1CeFY1X3NkX3R4ZnMxMTJuZ0pBNXU1TlFmUVI3TmlDYWNmRFQ4SzEyTXpyd3h1REJjQWJLV282TFh1M0VtWnRGb1Q1RXg4WEM2V2JNbFRQempYZkVKTV8tSXBRLW9GTEZ0RGR1X3lJNmRTdFU?oc=5",
+      "date": "2026-02-20T14:52:00.000Z",
+      "source": "AI SaaS",
+      "category": "Business & Productivité"
+    },
+    {
+      "id": "6ze9ti",
+      "title": "OpenAI says 18 to 24-year-olds account for nearly 50% of ChatGPT usage in India",
+      "description": "The company said on Friday that users between 18 and 24 years of age account for nearly 50% of all messages sent by Indians to ChatGPT, and users under 30 accounted for 80% of usage in the country.",
+      "link": "https://techcrunch.com/2026/02/20/openai-says-18-to-24-year-olds-account-for-nearly-50-of-chatgpt-usage-in-india/",
+      "date": "2026-02-20T13:57:03.000Z",
+      "source": "TechCrunch AI",
+      "category": "Funding & Business"
+    },
+    {
+      "id": "t6xcyi",
+      "title": "An End-to-End Guide to Beautifying Your Open-Source Repo with Agentic AI",
+      "description": "The guide to automated improvement of scientific and industrial repositories using open-source AI agents The post An End-to-End Guide to Beautifying Your Open-Source Repo with Agentic AI appeared first on Towards Data Science.",
+      "link": "https://towardsdatascience.com/an-end-to-end-guide-to-beautifying-your-open-source-repo-with-agentic-ai/",
+      "date": "2026-02-20T13:30:00.000Z",
+      "source": "Towards Data Science",
+      "category": "Tutos & Guides"
+    },
     {
       "id": "p91cma",
       "title": "Nvidia reportedly set to invest $30 billion in OpenAI",
@@ -13,6 +121,33 @@
       "date": "2026-02-20T13:13:21.000Z",
       "source": "The Decoder",
       "category": "Produits & Apps"
+    },
+    {
+      "id": "z9zbqh",
+      "title": "The Download: Microsoft’s online reality check, and the worrying rise in measles cases",
+      "description": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. Microsoft has a new plan to prove what’s real and what’s AI online AI-enabled deception now permeates our online lives. There are the high-profile cases you may e",
+      "link": "https://www.technologyreview.com/2026/02/20/1133396/the-download-microsofts-online-reality-check-and-the-worrying-rise-in-measles-cases/",
+      "date": "2026-02-20T13:10:00.000Z",
+      "source": "MIT Tech Review",
+      "category": "Sécurité & Éthique"
+    },
+    {
+      "id": "6l9xpy",
+      "title": "Skills Night: 62,000 ways agents are getting smarter",
+      "description": "The room was full of people who had already used skills. Tuesday night we hosted Skills Night in San Francisco, an event for developers building on and around , the open skills ecosystem we've been growing since the idea started as a single weekend of writing. What began as Shu Ding sitting down to ",
+      "link": "https://vercel.com/blog/skills-night-62000-ways-agents-are-getting-smarter",
+      "date": "2026-02-20T13:00:00.000Z",
+      "source": "Vercel",
+      "category": "Dev & Optimisation"
+    },
+    {
+      "id": "x0jjad",
+      "title": "AI in the workplace: A report for 2025 | McKinsey - McKinsey & Company",
+      "description": "AI in the workplace: A report for 2025 | McKinsey McKinsey & Company",
+      "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQNHluenp6NE4teVg3bTJiWG9VZk81dDQwcDBJcmVJWlBHdWhIYWRSYTNWX052aHVZdjhfdmxXNk9mTENURGRzdURmMExpTm5VazdfTWZpcUxTV21TcThJbHc2cFluMmRjMXdVeE80ZDhBR0JUWUhJcHJiX2Rva1lGT2tfMDNEOHZzRkJwSUpoM3FwZjh1RU56aXcxclFqNnRyVkRBVkJIbUkyaloxWGpscjJTZ2hYVkNxX0g2d2liUm41MlhaZDQwcl9JTlFtcWVGd3d0Vzg5V3Y?oc=5",
+      "date": "2026-02-20T12:59:18.000Z",
+      "source": "AI Business",
+      "category": "Business & Productivité"
     },
     {
       "id": "efcl80",
@@ -69,13 +204,13 @@
       "category": "Sécurité & Éthique"
     },
     {
-      "id": "tma4k0",
-      "title": "Better Artificial Intelligence Stock: BigBear.ai vs. C3.ai - AOL.com",
-      "description": "Better Artificial Intelligence Stock: BigBear.ai vs. C3.ai AOL.com",
-      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNQlBJZ2gxNGVaYmpJT3NMeDhsejlGWUxySjFIeGxuc3FoTDdTZW9zVFVfRHNmNkhxX2R0SVFHeExIa1RRX00xUEpPaEdnbWxZNzlCS1VveGw5STR3UVMwOXNiVnJmZEVDZXdESVR1MHFRVWEyd3EtaDRBMlNBZWp6T25PRGtYT1VCc1FiTzBQR2c1dw?oc=5",
-      "date": "2026-02-20T10:52:18.000Z",
-      "source": "AI M&A",
-      "category": "Funding & Business"
+      "id": "zietn1",
+      "title": "Google releases Gemini 3.1 Pro: Benchmark performance, how to try it - Mashable",
+      "description": "Google releases Gemini 3.1 Pro: Benchmark performance, how to try it Mashable",
+      "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTFBCY0xTWHFneDdBTTBhNkFLT3NEdlZBMGR3Y1RKdTVKWTREZmxaaV9ZeEduVjFNWWg0WlNBWTltSkhHV19rMHZiSnQyMm1UZWVxZ3V4UG1PMU1tcDRlTGlPQkwydzhhV1pNbGtsQUVzNDBhbzgxUGtVZVpR?oc=5",
+      "date": "2026-02-20T10:54:00.000Z",
+      "source": "AI Products",
+      "category": "Produits & Apps"
     },
     {
       "id": "t90700",
@@ -96,6 +231,15 @@
       "category": "Sécurité & Éthique"
     },
     {
+      "id": "hyk7kp",
+      "title": "The world's top TikToker did a $975 million deal. Now the stock behind it is crashing. - Business Insider",
+      "description": "The world's top TikToker did a $975 million deal. Now the stock behind it is crashing. Business Insider",
+      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPS3RUdU8xZi1PRW9sa09Nc05BQW5nbXNwcjNRcmpuRHRsYkRfMExSa1VCUHlCRF8tZkw1NGN3OVZyQ2hnTFpDRHZKZkZUcFd2V3NIN0RyNGRQZjlEUmFSaWxvUlBrdUx6cXlKdXljemExdThBQlRNZFJNNTNENVN1U2FvOFJuRU1EZVNFSVZERjBKZ1dWYlE1Y0plZ3R3cks1?oc=5",
+      "date": "2026-02-20T10:02:00.000Z",
+      "source": "AI M&A",
+      "category": "Funding & Business"
+    },
+    {
       "id": "csdhv3",
       "title": "Measles cases are rising. Other vaccine-preventable infections could be next.",
       "description": "There’s a measles outbreak happening close to where I live. Since the start of this year, 34 cases have been confirmed in Enfield, a northern borough of London. Most of those affected are children under the age of 11. One in five have needed hospital treatment. It’s another worrying development for ",
@@ -103,15 +247,6 @@
       "date": "2026-02-20T10:00:00.000Z",
       "source": "MIT Tech Review",
       "category": "Sécurité & Éthique"
-    },
-    {
-      "id": "1ufy5p",
-      "title": "AI impact fear rocks IPO hopefuls - GlobalCapital",
-      "description": "AI impact fear rocks IPO hopefuls GlobalCapital",
-      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPdW5NRWQ4Q3VqTnJLQzNWM190TV8tU3NlVFNnTXBzWkRMMWdRVE1VTDUwc0ZUYW9iM0c0U3ZOQWFnSGw1eGhZN0lGRFkxZzFFd3cwSFh6ZUZEQ2RXdWJZemNiNzY4RHF2VEVObmdtTTN1Qi05QWcxOV9BdWlVeG1GWWY1MUpDeTNvYkxYeUlRR3JrRmktU1ZyRndjandRWHpNSHc?oc=5",
-      "date": "2026-02-20T09:45:16.000Z",
-      "source": "AI M&A",
-      "category": "Funding & Business"
     },
     {
       "id": "azxxeb",
@@ -159,22 +294,13 @@
       "category": "Big Players"
     },
     {
-      "id": "x0jjad",
-      "title": "AI in the workplace: A report for 2025 | McKinsey - McKinsey & Company",
-      "description": "AI in the workplace: A report for 2025 | McKinsey McKinsey & Company",
-      "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQNHluenp6NE4teVg3bTJiWG9VZk81dDQwcDBJcmVJWlBHdWhIYWRSYTNWX052aHVZdjhfdmxXNk9mTENURGRzdURmMExpTm5VazdfTWZpcUxTV21TcThJbHc2cFluMmRjMXdVeE80ZDhBR0JUWUhJcHJiX2Rva1lGT2tfMDNEOHZzRkJwSUpoM3FwZjh1RU56aXcxclFqNnRyVkRBVkJIbUkyaloxWGpscjJTZ2hYVkNxX0g2d2liUm41MlhaZDQwcl9JTlFtcWVGd3d0Vzg5V3Y?oc=5",
-      "date": "2026-02-20T05:03:05.000Z",
-      "source": "AI Business",
-      "category": "Business & Productivité"
-    },
-    {
-      "id": "jx6wke",
-      "title": "Get ChatGPT, Claude, Gemini, and more in one dashboard for a flat $75 - Mashable",
-      "description": "Get ChatGPT, Claude, Gemini, and more in one dashboard for a flat $75 Mashable",
-      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNdzlmeXM2TUxpVGpzWXNLLWRoS0RrQUhENWdoc191LTZhR19SYU5hNmN6cmVKU3NVM2dnUF9XV2kyV1lfU3ZxeDR0MGJWd1lBVzJ5NVoxSmc4dUxEZXZodmt2Zk9BTEhqQzRzbk1DQmxzZWlqWjB6eTVldERoanQ0X3ByNDQ2QkVkaHhBbTdsMlc0TTlnZkE?oc=5",
-      "date": "2026-02-20T04:28:14.000Z",
-      "source": "AI Products",
-      "category": "Produits & Apps"
+      "id": "udj1kw",
+      "title": "Markets will soon test a Musk merger that promises 'space-based internet' - AOL.com",
+      "description": "Markets will soon test a Musk merger that promises 'space-based internet' AOL.com",
+      "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5NSE42bW9rYUpTUmVrNll6bW9TeVNWRUdUdk9GbXpBRWt5bXN0ME5qd1plZFJtT2dXX0ZMa1VWM3VpMG95ZWMtUmJ5YjUzZ0dnVGpGYmYzZE5iODJtRENMRnk4djI4Qi1ITlRZM3gxdzVCVmpNX2QtUWhtcUNWZw?oc=5",
+      "date": "2026-02-20T04:37:34.000Z",
+      "source": "AI M&A",
+      "category": "Funding & Business"
     },
     {
       "id": "9r97pz",
@@ -211,6 +337,15 @@
       "date": "2026-02-20T00:30:00.000Z",
       "source": "TechCrunch AI",
       "category": "Funding & Business"
+    },
+    {
+      "id": "cv8g88",
+      "title": "GGML and llama.cpp join HF to ensure the long-term progress of Local AI",
+      "description": "",
+      "link": "https://huggingface.co/blog/ggml-joins-hf",
+      "date": "2026-02-20T00:00:00.000Z",
+      "source": "Hugging Face",
+      "category": "Big Players"
     },
     {
       "id": "mxci29",
@@ -366,15 +501,6 @@
       "category": "Sécurité & Éthique"
     },
     {
-      "id": "uacu1y",
-      "title": "Microsoft error sees confidential emails exposed to AI tool Copilot - BBC",
-      "description": "Microsoft error sees confidential emails exposed to AI tool Copilot BBC",
-      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5paWdoSzFTSmRkYURUU2J2VDFROF9zd1ZVVjd2WHczYjFBdnMxandIemYwN3B4QjFvamRlYlN3TURuSDlUMWVMSGppb0IxRXZBOVowelhMMjgzQQ?oc=5",
-      "date": "2026-02-19T18:16:43.000Z",
-      "source": "Microsoft AI",
-      "category": "Big Players"
-    },
-    {
       "id": "5zvadg",
       "title": "Turn creative prompts into interactive XR experiences with Gemini - blog.google",
       "description": "Turn creative prompts into interactive XR experiences with Gemini blog.google",
@@ -400,6 +526,15 @@
       "date": "2026-02-19T17:53:59.000Z",
       "source": "AI Products",
       "category": "Produits & Apps"
+    },
+    {
+      "id": "r7bfxr",
+      "title": "Pentagon CTO says it’s ‘not democratic’ for Anthropic to limit military use of Claude AI - Breaking Defense",
+      "description": "Pentagon CTO says it’s ‘not democratic’ for Anthropic to limit military use of Claude AI Breaking Defense",
+      "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNZFJIeU5WbGtPVlBISDBaYjlLYTVwQkpBMkRWVG5qUDdfRjRQRWstT3lzbk1idzNCeUN1Wnlka09OR3NTX2lxeE8tRXdkQmFoTmlOWlYxVkVtME1meElpcVZDYlJaeE51VGE1TC1xbERkVGRhWGUxZmxmdzRtbnQwbmhHTDRzRmNubml6V0o3alVuUHVoLXBOVnQzenFxdHNhcUZwNlJLakFtaTNkdm1jTElMRDZOT2l2Yl80RXZIWQ?oc=5",
+      "date": "2026-02-19T17:40:42.000Z",
+      "source": "Anthropic",
+      "category": "Big Players"
     },
     {
       "id": "99tms0",
@@ -555,6 +690,24 @@
       "category": "Produits & Apps"
     },
     {
+      "id": "vkbje3",
+      "title": "Exclusive: Ownwell Lands $30M To Help Homeowners Lower Their Property Tax Bills - Crunchbase News",
+      "description": "Exclusive: Ownwell Lands $30M To Help Homeowners Lower Their Property Tax Bills Crunchbase News",
+      "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOSVRCQ0IzVzVVWTJEaThjM2dpX2VFa1NWclFCRFp5VmJ2d3VUSk1EUTZOc2JBTTRXUjlLOVdha196ZUljVEpUS2hibE4tbmExY3otdXE3RzRBY1ZhVmk5YjJwWlJiaDNaU3hrUndkQjNlOC0wYTJWMHJITURnSFJ2ZDVzbG1Ldw?oc=5",
+      "date": "2026-02-19T15:00:32.000Z",
+      "source": "AI Funding",
+      "category": "Funding & Business"
+    },
+    {
+      "id": "w4fdn8",
+      "title": "Reload wants to give your AI agents a shared memory - TechCrunch",
+      "description": "Reload wants to give your AI agents a shared memory TechCrunch",
+      "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQTjBkbHVPNjFNTWxEQlBTWjAzc0FGTWlNN005RmxoRVdOMGxiY1FpMUcwRHk2aVRMZUNXM2FZT3FwMmtuUEw0aXpIUm90ZEJ3Rnc0THE1b0M5b3ZtcU5MOHJqUTZscHdfVkdyYWloYkpONkRuR0paeUNVRnpDeGh5cGJEVVlxeHg3cUxNSC1XZTJLT1k1RUg4SkV4SWRCWUdRSmdrUF9Sa2gzLTdlVlhIWE92Sk9rU1ZRSEFZVERkZnlTZw?oc=5",
+      "date": "2026-02-19T15:00:00.000Z",
+      "source": "AI SaaS",
+      "category": "Business & Productivité"
+    },
+    {
       "id": "vtv7w1",
       "title": "Money no longer matters to AI’s top talent",
       "description": "Today on Decoder we’re going to talk about the war for AI talent. Right now, the hottest job market on the planet is for AI researchers. The vast majority of these people are concentrated into a small number of hugely valuable, extremely fast-growing companies in the San Francisco Bay Area. Nowadays",
@@ -573,6 +726,15 @@
       "category": "Funding & Business"
     },
     {
+      "id": "59r4af",
+      "title": "Startup Developing GPS Alternative for Physical AI Earns $1 Billion-Valuation - The Information",
+      "description": "Startup Developing GPS Alternative for Physical AI Earns $1 Billion-Valuation The Information",
+      "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPRFEzaXpTNWlxZG1PeTNXZFhkTVZMQ3ZFTENwakxWSzRvMG1tMFNVT0RQZDF6aUVlaF8yOFBLdnNmbjJWSWRmeDc4SWZMcktqVXoyUGh0dmwtVFlhTndpN2c1RTIwMFB6ZExiWVM2dkFHWWxNazZfc3huNjNsb2VyQTl2Sl9OZE9wT3c3SmNyUWlOUWhfdUctbUd3S1o0T3I3c1hJdjN2NVRvS00zM09tS21ESEdtelhFMWpmUGQzODAyMTQ?oc=5",
+      "date": "2026-02-19T15:00:00.000Z",
+      "source": "AI Funding",
+      "category": "Funding & Business"
+    },
+    {
       "id": "gwq2ii",
       "title": "Meta Platforms: The Architectural Pivot from Social Media to the AI Intelligence Layer - FinancialContent",
       "description": "Meta Platforms: The Architectural Pivot from Social Media to the AI Intelligence Layer FinancialContent",
@@ -580,24 +742,6 @@
       "date": "2026-02-19T14:54:00.000Z",
       "source": "Meta AI",
       "category": "Big Players"
-    },
-    {
-      "id": "1pk2mc",
-      "title": "OpenAI, Reliance partner to add AI search to JioHotstar",
-      "description": "The rollout includes two-way integration that surfaces streaming links directly inside ChatGPT.",
-      "link": "https://techcrunch.com/2026/02/19/openai-reliance-partner-to-add-ai-search-to-jiohotstar/",
-      "date": "2026-02-19T14:45:29.000Z",
-      "source": "TechCrunch AI",
-      "category": "Funding & Business"
-    },
-    {
-      "id": "wrv8c0",
-      "title": "Co-founders behind Reface and Prisma join hands to improve on-device model inference with Mirai",
-      "description": "Mirai raised a $10 million seed round to improve how AI models run on devices like smartphones and laptops.",
-      "link": "https://techcrunch.com/2026/02/19/co-founders-behind-reface-and-prisma-join-hands-to-improve-on-device-model-inference-with-mirai/",
-      "date": "2026-02-19T14:43:58.000Z",
-      "source": "TechCrunch AI",
-      "category": "Funding & Business"
     },
     {
       "id": "34fk98",
@@ -616,15 +760,6 @@
       "date": "2026-02-19T14:41:08.000Z",
       "source": "Microsoft AI",
       "category": "Big Players"
-    },
-    {
-      "id": "8jeib3",
-      "title": "Markets will soon test a Musk merger that promises 'space-based internet' - AOL.com",
-      "description": "Markets will soon test a Musk merger that promises 'space-based internet' AOL.com",
-      "link": "https://news.google.com/rss/articles/CBMigwRBVV95cUxQSVpxVzNNYVQ3WW03SWhGbVljaFlfeVlmV3ZwTlZ6bHY1SFk5RUQxWG1oUmNKbE9VWFNoaDhWZVNPVl9lWXlVelRZMDRxcGhBZFdYTkx1Tm5Fbm1iTkppM2F2aGd5MmZLMWxESno4dWtqTHN2RndrUG1mcGc2RktHUk43Ymhwak1NTzVoZTl4Q2xiWW5UbHI5VmREMFhGekxrS2JiS2lTT0VlVll2SXhwQ1hheGlVZmRlSm1ROGN3TmVKektSNVRNV3hHZEFUb3lXU2pDQ180VWZ5N1VRRXVoSTJCZFVFc1U0VmNzMUdlSU5mN2VLZjYyTFB2M19TXy1JRFRYVHF2enBYSjVLN0FvN1BsWUhxMU02UXNQLTZNUmdkMVpvc1FvQXg4VUhkX0RkUS1IczVYdnVFZkNnZW04S1p1SFF4T0hwUTZqTTJaak9iWll0VFB5ZGZPeklyS2xnQUJreE1zTjNsSmFSbVVaUG80TUpLMTZnQWhMRmxJWHFBbjVEZTJ6WVh0enlPVGFxdl9vQTh4eUZENHdtRzhrM3F6SEZxUVRGZlUxN3BEUTUtSUhhaWc2bzhRM0ZCQ1RyejBHSUVsbjNPM3Byd3FBWXFhU01WNDJpSUlGcGpRZ18xbWZoaE1rX1dBMUR5bEVoM0pOMWxfczRBVHFnYzdCaFZHYw?oc=5",
-      "date": "2026-02-19T14:08:24.000Z",
-      "source": "AI M&A",
-      "category": "Funding & Business"
     },
     {
       "id": "pmla61",
@@ -654,15 +789,6 @@
       "category": "Big Players"
     },
     {
-      "id": "f46m1g",
-      "title": "For open source programs, AI coding tools are a mixed blessing",
-      "description": "AI coding tools have enabled a flood of bad code that threatens to overwhelm many projects. Building new features is easier, but maintaining them is just as hard.",
-      "link": "https://techcrunch.com/2026/02/19/for-open-source-programs-ai-coding-tools-are-a-mixed-blessing/",
-      "date": "2026-02-19T14:00:00.000Z",
-      "source": "TechCrunch AI",
-      "category": "Funding & Business"
-    },
-    {
       "id": "6bmnm5",
       "title": "It&#8217;s MAGA v Broligarch in the battle over prediction markets",
       "description": "The Polymarket website hosts trading on whether Houthi militias would strike Israeli territory arranged on a laptop computer in Forest Hills neighborhood in the Queens borough of New York, US, on Sunday, Jan. 4, 2026. | Bloomberg via Getty Images. Hello and welcome to Regulator, a newsletter for Ver",
@@ -670,15 +796,6 @@
       "date": "2026-02-19T13:50:00.000Z",
       "source": "The Verge AI",
       "category": "Produits & Apps"
-    },
-    {
-      "id": "pxkx2s",
-      "title": "Altman and Amodei share a moment of awkwardness at India’s big AI summit",
-      "description": "When Prime Minister Narendra Modi prompted speakers at the event to join hands and raise them in a show of unity, all executives onstage obliged, except OpenAI's Sam Altman and Anthropic's Dario Amodei, who held their hands conspicuously apart.",
-      "link": "https://techcrunch.com/2026/02/19/altman-and-amodei-share-a-moment-of-awkwardness-at-indias-big-ai-summit/",
-      "date": "2026-02-19T13:49:06.000Z",
-      "source": "TechCrunch AI",
-      "category": "Funding & Business"
     },
     {
       "id": "xp2m34",
@@ -703,6 +820,15 @@
       "title": "AI tool from Braiin scores every call, chat and email in real time - Stock Titan",
       "description": "AI tool from Braiin scores every call, chat and email in real time Stock Titan",
       "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNYTNtODZVeHcwWWRVcmZybnlOd3JnRjFTMXFiVlVYLWItOGVEZVBObTFGd2JpNjIxaFNFRldWYmVuVU1fTmFiV25SZHF6dkhySmw0aFpjTmo4aERTc3RnSWVUQmxsbGlBdU9KbHJtbVJSeTlTQXl4NVpQY0hjNmUwNllZb0trVURGT1RXbjlvWWZocmNaSFlDUllUQmRsU1d5OFFybWVmUW5qRVJkTndmNHU1SVQ?oc=5",
+      "date": "2026-02-19T13:31:00.000Z",
+      "source": "AI SaaS",
+      "category": "Business & Productivité"
+    },
+    {
+      "id": "870bac",
+      "title": "FinancialContent - Braiin Announces Launch of ProEval Enterprise, an AI-Driven Omnichannel Performance & Workflow Intelligence Platform - FinancialContent",
+      "description": "FinancialContent - Braiin Announces Launch of ProEval Enterprise, an AI-Driven Omnichannel Performance & Workflow Intelligence Platform FinancialContent",
+      "link": "https://news.google.com/rss/articles/CBMimAJBVV95cUxQR1MxVlByay1iSHBjd0J6OHpFS29mbmdDYWN2LW42cHRfbVVXd1pwaUtMUDlLMGR4WVViNXo1Z3EtR2tTSjhmUmEyMVhtRUg4ZzFGR29OTUlld0V2UlJidkM4VWRUa2xERzYwcDJTTlFoRnZmX1dnc0xaMHlfaHRDVVdHUDBpTXV1aFEzRmpiY1BsYm9GbDZzandXWDR4WHhtN21mdWZIUkhJZnR3UFlQWXFLSkd4UnNXc0EyaVNQeEFVWWRwZ3FjWnJGYmV6azFIUWhaVzZXemVtM3prdldPRzFMcjg3WWdrS0JDb1NVSEgwVW1SRzR4VHRlV0M1UTRDUlh2NUdFY3ZMbkZ6N250SlFUTThoQ0ho?oc=5",
       "date": "2026-02-19T13:31:00.000Z",
       "source": "AI SaaS",
       "category": "Business & Productivité"
@@ -852,15 +978,6 @@
       "category": "Dev & Optimisation"
     },
     {
-      "id": "w6iwk4",
-      "title": "Freeform raises $67M Series B to scale up laser AI manufacturing",
-      "description": "“I think we're the only quote-unquote manufacturing company out there that has H200 clusters in a data center on site.\"",
-      "link": "https://techcrunch.com/2026/02/19/freeform-raises-67m-series-b-to-scale-up-laser-ai-manufacturing/",
-      "date": "2026-02-19T13:00:00.000Z",
-      "source": "TechCrunch AI",
-      "category": "Funding & Business"
-    },
-    {
       "id": "mklx9q",
       "title": "Apple CarPlay gets a big AI upgrade in iOS 26.4 that lets you talk to ChatGPT, Gemini and Claude — but there’s a catch - TechRadar",
       "description": "Apple CarPlay gets a big AI upgrade in iOS 26.4 that lets you talk to ChatGPT, Gemini and Claude — but there’s a catch TechRadar",
@@ -904,6 +1021,15 @@
       "date": "2026-02-19T12:30:00.000Z",
       "source": "AI Agents",
       "category": "Agents & Automatisation"
+    },
+    {
+      "id": "yxv9mm",
+      "title": "PromptSpy: First Android malware to use generative AI in its execution flow - Help Net Security",
+      "description": "PromptSpy: First Android malware to use generative AI in its execution flow Help Net Security",
+      "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQc2NIVnFiNU1KUUx2YVJNZVl2ejFMZDJhVjhKSnNkS2NING0wNVVDckQ4UVcyQkZfUWlZdjhWZ3IteU82SDlFTVZ4SUZ1V3EzeGhhZ3czWTh6czdlSmVORk9HSkUwOHZ6UXlERXpIZWdvTWw4N1Vla2VIbGRKcDNIek00Vk5FT1VpVnB3?oc=5",
+      "date": "2026-02-19T12:08:32.000Z",
+      "source": "AI Tutorials",
+      "category": "Tutos & Guides"
     },
     {
       "id": "uem5le",
@@ -958,6 +1084,15 @@
       "date": "2026-02-19T11:00:00.000Z",
       "source": "MIT Tech Review",
       "category": "Sécurité & Éthique"
+    },
+    {
+      "id": "gsj055",
+      "title": "Built differently: Onshape’s AI Advisor - develop3d",
+      "description": "Built differently: Onshape’s AI Advisor develop3d",
+      "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE9nYjFpVk9fOEJGQm9UVmtQWG9KaFhhVWl2cUtqNWhGcHFRNTcxX1BFMkhPbno5a2ZxZF9CdTF2a3oyQ0pmc2F6YVozNU1ETWt4dDZiQ2xRa3BhVUJHSnpwVno5eF9rQjd0bHo5elV4Z3RCdw?oc=5",
+      "date": "2026-02-19T10:38:58.000Z",
+      "source": "AI SaaS",
+      "category": "Business & Productivité"
     },
     {
       "id": "983z4u",
@@ -1068,10 +1203,10 @@
       "category": "Dev & Optimisation"
     },
     {
-      "id": "roetsz",
+      "id": "4kiseb",
       "title": "Ai-driven design leaders Figma and Canva defy software doomsday, boost growth - CHOSUNBIZ - Chosunbiz",
       "description": "Ai-driven design leaders Figma and Canva defy software doomsday, boost growth - CHOSUNBIZ Chosunbiz",
-      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQVWtTbGZMZ0oyNnMzdjRPZ2dEd2tkTXJLTmJUMmxGcXF4dllPR0pLVEZ6VURiVDBlNTBoaXhyNlI5cktOYldmRjc1Tl9qOWp3eGswa0tBX3dZTTNOS1NjY1lMUG5wOVRHMkRtb3c4Z01PWlFzMTZ1OEl5WGREXy1HRjBfUnIwZEFzcmIxT2hn0gGOAUFVX3lxTFBVa1NsZkxnSjI2czN2NE9nZ0R3a2RNcktOYlQybEZxcXh2WU9HSktURnpVRGJUMGU1MGhpeHI2UjlyS05iV2ZGNzVOX2o5and4azBrS0Ffd1lNM05LU2NjWUxQbnA5VEcyRG1vdzhnTU9aUXMxNnU4SXlYZERfLUdGMF9ScjBkQXNyYjFPaGc?oc=5",
+      "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE5zTFFyRHJOVUZ5aGlzQURPbC1PMV80c0tLc3NlaFJhUXVJNnRDVGR5SVRuOGc1RnIwYlVLbm9nbDJvRjh6N3dlSVNQTktacUhRazI4SEEtOVRlRHFaSDdwY0tseWdkRDNDTmNjZXhXYkNnRXFRTEJwQnl30gGOAUFVX3lxTFBVa1NsZkxnSjI2czN2NE9nZ0R3a2RNcktOYlQybEZxcXh2WU9HSktURnpVRGJUMGU1MGhpeHI2UjlyS05iV2ZGNzVOX2o5and4azBrS0Ffd1lNM05LU2NjWUxQbnA5VEcyRG1vdzhnTU9aUXMxNnU4SXlYZERfLUdGMF9ScjBkQXNyYjFPaGc?oc=5",
       "date": "2026-02-19T07:54:00.000Z",
       "source": "AI Design",
       "category": "Design & Créatif"
@@ -1176,10 +1311,10 @@
       "category": "Design & Créatif"
     },
     {
-      "id": "hqm8xo",
-      "title": "Apple Is Adding ChatGPT, Claude, and Gemini to CarPlay in iOS 26.4 - Yahoo Autos",
-      "description": "Apple Is Adding ChatGPT, Claude, and Gemini to CarPlay in iOS 26.4 Yahoo Autos",
-      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPcEJFWmU5RnR5ZDNRbjVxUjhtVDV1VHdobHJzeGM2Y25yNE9IVVRrcHVBT1dKZV96YmttbkhHSTBMdFVOdEwwX2owVWhoWXlPdExKbmdMZGgzVFJqWk9MR003M1ZYd2hvUGszY0ttZkRMbDQ1cWVYeWFZRnZ2ZkMzdzhUeFY4WmRMbmhHU3djdTBObC04bjdFcGFrdmQ5V2hXWTYw?oc=5",
+      "id": "sagl3r",
+      "title": "Apple Is Adding ChatGPT, Claude, and Gemini to CarPlay in iOS 26.4 - Lifehacker",
+      "description": "Apple Is Adding ChatGPT, Claude, and Gemini to CarPlay in iOS 26.4 Lifehacker",
+      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPTUJ0cURVcFpWcGprLUphMjdGUVVYemFHM2dveXpueU91blpleTk1V0VqMHFDVzBZbmo4a2pGZXJGNmNpUW5naXo0OUxQMmpuR2plSjNUR3UwVGFXb1cxTVdJZHZ5bWdOWEZybU9iS2ExbHdyY0Vrbkgxd0xHUk92LURacXRUUms?oc=5",
       "date": "2026-02-18T22:10:45.000Z",
       "source": "AI Products",
       "category": "Produits & Apps"
@@ -1199,6 +1334,15 @@
       "description": "The Opportunities and Risks of SpaceX’s xAI Deal and Data Center in Space Ambitions Via Satellite",
       "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPRnRscHJZYTE3aXFfak9IUGRKaGZtNWhmWlFTRE9pQ1FKWUNrN05ZR2RTZUVGYWRaY2VEbjNtSzZKWnFzNDhiSE1kMWhpSkZ4N3h0aVNEeWo1WFl4SEtmeW43RjFEb09QR2JXLTBseTNmRTgxOFdRYVVxNHBMdVAzTlhNWFgzOFpLNHI4bW1RVzRsajhsemtmZ28xLXh4eXJWYXN0YVRvZ1BEUmdDRzBRVk9kVVoxei1fWnpMeXlUVlRtOGVJZHJJaVdXVHRGdw?oc=5",
       "date": "2026-02-18T21:17:17.000Z",
+      "source": "AI M&A",
+      "category": "Funding & Business"
+    },
+    {
+      "id": "gkf775",
+      "title": "Blank-check firm to pursue Asian AI, quantum, biotech deals with $100M - Stock Titan",
+      "description": "Blank-check firm to pursue Asian AI, quantum, biotech deals with $100M Stock Titan",
+      "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPdHVLaFNDN3RIa0lDYmhQZnJZR2lTcDZ5OUhLMmE1RlBhejVCN3ppaUtyaVhNblFMUWZhTHhlQ1ptMHlGQUZhLVdMMlJmMm0yTWJkSjBWaUpHcno1YWM2NzlPOVFyYTFLaklwUVluOFdaNTl5aS1RNl9Qa21fbmVIUG9RTHBrYUV6UFozVk5LN0JPVXVQX1p5SzZsem9PaUZSOXFZdVhhb1loZndEX2EyY29FS3ZobEViWVZz?oc=5",
+      "date": "2026-02-18T21:05:00.000Z",
       "source": "AI M&A",
       "category": "Funding & Business"
     },
@@ -1320,10 +1464,10 @@
       "category": "Funding & Business"
     },
     {
-      "id": "3kdaxr",
-      "title": "What is the Meta AI app? Everything you need to know - The Suffolk County News",
-      "description": "What is the Meta AI app? Everything you need to know The Suffolk County News",
-      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOUWJrbnBRWnJMQkpCbHh4eUtOeVNEQ1F2UGhuQ2dSeHZMaVJlXzBqN1BVb2tMREt5UG9wRFpfUW52YUVZZTh2NzJnNjJCNVlUeWtEWXF4a3lTWGV6Y3JSQ0JfYkx0QjE0NGpaTDdNSEp5SnlfelRxSzJuREhrbFBpRXlteGRmaDM2M09xX1czdlZxS25UZ0tNRzY4VUIxcDJra3pFUTRoaWwtYjNJQm9YSnZwUmd1NXJl?oc=5",
+      "id": "weg0r3",
+      "title": "What is the Meta AI app? Everything you need to know - Paris Post-Intelligencer",
+      "description": "What is the Meta AI app? Everything you need to know Paris Post-Intelligencer",
+      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOR2k4NWRTT0ZMT1NQWFUxeDFNdnF3c0pVNGFOMVJpc0VJVUE2MUloZGhRZ280VXVQa1ZKZGp0eU5UcmRyeTNrQ3Rvd3dvOVVZNUtLNFFPVmdnUWlSbXdIU3VtNkgyWl9XS1B1a0xGWHlEcHV6SGlXZDAtWFdvS0lBQzl1WThxcHlZSjJiSlBqWWc0T3J1dDNuWjBMenp3QlVfZFZfTjJTeGZ5Ync?oc=5",
       "date": "2026-02-18T19:00:22.000Z",
       "source": "Meta AI",
       "category": "Big Players"
@@ -1482,15 +1626,6 @@
       "category": "Big Players"
     },
     {
-      "id": "c3his0",
-      "title": "Google DeepMind wants to know if chatbots are just virtue signaling",
-      "description": "Google DeepMind is calling for the moral behavior of large language models—such as what they do when called on to act as companions, therapists, medical advisors, and so on—to be scrutinized with the same kind of rigor as their ability to code or do math. As LLMs improve, people are asking them to p",
-      "link": "https://www.technologyreview.com/2026/02/18/1133299/google-deepmind-wants-to-know-if-chatbots-are-just-virtue-signaling/",
-      "date": "2026-02-18T16:00:22.000Z",
-      "source": "MIT Tech Review",
-      "category": "Sécurité & Éthique"
-    },
-    {
       "id": "syqbvs",
       "title": "Google’s AI music maker is coming to the Gemini app",
       "description": "Let Gemini be your, uh, Bard? | Image: Google Google has given Gemini the ability to spit out AI-generated music, courtesy of DeepMind's latest audio model. Beta access to Lyria 3 is rolling out in the Gemini app, enabling users to generate 30-second tracks based on text, images, and videos, without",
@@ -1518,15 +1653,6 @@
       "category": "Agents & Automatisation"
     },
     {
-      "id": "sawlq6",
-      "title": "Kana emerges from stealth with $15M to build flexible AI agents for marketers - TechCrunch",
-      "description": "Kana emerges from stealth with $15M to build flexible AI agents for marketers TechCrunch",
-      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNdS0wYnRjdl9LS1ZOVUJaajBJbERyOXE0ZEZVbDl5UV9nNXUzRkgzUjFlTXE2Z3pPeTY3eWNEdlU1dWswNktrTHEwcnZDY1FmeUZlUUVLTzJFVmFBUHFMME5ST0VGT3k3R3VxWUwxMEFONklHYjg1WlpPdkRBTVhRY3NVa2ZJMXRNNmdjb0JVYmFZRW1rd29Gck9vRHlqVU9DUTM3U01TcHNWUjZyMEZBYg?oc=5",
-      "date": "2026-02-18T15:08:40.000Z",
-      "source": "AI SaaS",
-      "category": "Business & Productivité"
-    },
-    {
       "id": "32n3yp",
       "title": "Microsoft says Office bug exposed customers’ confidential emails to Copilot AI - TechCrunch",
       "description": "Microsoft says Office bug exposed customers’ confidential emails to Copilot AI TechCrunch",
@@ -1552,15 +1678,6 @@
       "date": "2026-02-18T14:31:45.000Z",
       "source": "AI Design",
       "category": "Design & Créatif"
-    },
-    {
-      "id": "va4v42",
-      "title": "AI remix startup Hook secures $10m in Series A led by Khosla Ventures - Music Business Worldwide",
-      "description": "AI remix startup Hook secures $10m in Series A led by Khosla Ventures Music Business Worldwide",
-      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPb1lnSm9oYUpscE90UjZZLVN4aDR0U2FpaUpxMTdtbkdURDhCX2hrLWRidS1NWTVaa3dST2s0c0M4RXhhRFVRMlB1Q04zNHYxVG1oWmhBeVlVUGRuTVpNNzFGZ05IdzFiQm93YV9KWkxlTFREaTUzQmpsVDVkN2w1VVR3eGpYQmRudlBUcGlFcEZtMGdwdG1jb05GYlQ3V0tVYmZSdmVuTkxpZUZs?oc=5",
-      "date": "2026-02-18T14:00:38.000Z",
-      "source": "AI Funding",
-      "category": "Funding & Business"
     },
     {
       "id": "kef878",
@@ -1707,9 +1824,9 @@
       "category": "Produits & Apps"
     },
     {
-      "id": "doqvy6",
-      "title": "Mistral CEO Says AI Dominance Hinges on Openness, Not Geography - Bloomberg.com",
-      "description": "Mistral CEO Says AI Dominance Hinges on Openness, Not Geography Bloomberg.com",
+      "id": "tbrj75",
+      "title": "Mistral CEO Says AI Dominance Hinges on Openness, Not Geography - Bloomberg",
+      "description": "Mistral CEO Says AI Dominance Hinges on Openness, Not Geography Bloomberg",
       "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQM1l4dXI2aVRKaWo1RUxVZjlMSHRvd01XNDEzWFl6LTluUkszVTdVMVdHYzROWGFhQXFqUGZYZG43eFV3U1NqTFJNaXdpV3R5eGVTb0FQdE1MaTBCY1lQM2pMM0lqOU02RmtxeHFiejJTMTYyMkM4TnRpdWpiRUF5RnlVWEU0Y19pbnFqaVVYR0g3QnVYbVBaUTZqQ3NYYWFOU3BFWXNZb3pjYm9PMGlYUVJWaw?oc=5",
       "date": "2026-02-18T10:52:14.000Z",
       "source": "Mistral AI",
@@ -1752,10 +1869,10 @@
       "category": "Big Players"
     },
     {
-      "id": "nb8pp",
+      "id": "mjgncj",
       "title": "Mistral AI to Buy Software Infrastructure Startup Koyeb - The Wall Street Journal",
       "description": "Mistral AI to Buy Software Infrastructure Startup Koyeb The Wall Street Journal",
-      "link": "https://news.google.com/rss/articles/CBMinANBVV95cUxNR3E4VHVlZkp0Z1hpdFRVeWlrbXlEaTRkaU9IMnFQVi1hOUg1bWhlQnlzbnQ2UHJiOExjMGRaUmpFUmVsU1FwRzVzQl90MVlROGZReUh5SWpDMHJpMEhwSE1kN3JjbkZKMW11LTU0U25PamdzMUpQQndScVMxQVNvclpIYnZHRmlRTHhUT0hKRTZzaFJqLXEyLV80X3g5T0V4Ym5Ec2x5b0x0ODd4dm5STHNYTmxtOU5BS2g4dk9TVkdkMGQ1VDMtVE9BVlRTVW9RWGtnZXVXR21DNmRUQmZtRGFLSzNZUjI4UUdzbXA3MGdBMHlaYkVfSDUtOFZUV1lLY0wzY3FqckdKdTB2UEphQUhQQmRNWFFmQ2tfUThnZnl3c08xUXZibWhwbkVBYjRxM3k1eU91RDdrZnZMM1g1M3ZQSGtqclAyWHVuSWxhQTNDSWlMWW5BVDVWSXYwMFFUMHNWc2J2aTZCZ2VYeWJlNzZxaUdHNTAyVEVMUkhiN1JTOVJUVVR5S3Bua1M1TEUyam00RWJIdFBOY0JM?oc=5",
+      "link": "https://news.google.com/rss/articles/CBMinANBVV95cUxQbG9DX1BOSVJ6T21GcUpNOWtzTm5uNmdDMUxlclZkWDZ6UzkyZFRfbERqeUdUV0huX0NiYnZtaEJ0VG5KOXRmUTM3RVh5c0JySnB6Ti1VV083V3AydHM2ZlljSUFHZ3NrM3JDcU9JdTlGUzBKX3g5Sm1SNjVXWmVvQzZjRV9ONG5ja1RpZmRkM1JRQmxhb3FRSjFZSWVnWmZabERPdW4xb1RySDFINUozcW9YRzY0ZUVDZG9SMTBsa1oxUG91b2xJZy16bW53cU9HdFNKZkk3b0JtM2Z4WWVqS0lNM3R1b0NFZ1pQelMxZFdWQmRkeUtlZE5FRnFrR1pxRFJRUkZqbHR5eFUwNmFBcHhWSGQ0cHR2R2hZekN1elNzajBTU0dBNERBSG9GY1lOc2tVbF9oZUFrWW9NVTVOaHh3OHU3NTFCM2xkSldnUzdYamFVWFJNaEZyeGI3YTdWTC1GblE3aEJDNU9ZcEtmVlRrMmZEMk9aeHp6T05Td25WT2d6Nmk0ZVhZb0h3T1lxZklDYThBdWRkcFVM?oc=5",
       "date": "2026-02-18T09:32:00.000Z",
       "source": "Mistral AI",
       "category": "Big Players"
@@ -1806,13 +1923,22 @@
       "category": "Agents & Automatisation"
     },
     {
-      "id": "5z8iw8",
-      "title": "Tech Investor Battery Ventures Raises $3.25 Billion for New Fund - Bloomberg.com",
-      "description": "Tech Investor Battery Ventures Raises $3.25 Billion for New Fund Bloomberg.com",
-      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPdDU1OGtRUGhpdkJQd0tDTHBYMzF4M3dIQ0E1WW9KMG1rYTJQbmtLWmo4Sm1POTdaRXpaRWpqNGlGeGJqcEh1TG42ZXFQNUQ2d0ZRdGVqS2x6YjdybXk3WUU3SlpXU3JZb08zVHZMQWhKZ2Zob2ZRUk5OdXVkeW5LRWNSbWE4SmJGRmdtM0lzRGJsX1NFTlE1czNubkdiZlBOOTBoampCWHNMcXlPVFB2bGxpUHg?oc=5",
-      "date": "2026-02-18T07:00:00.000Z",
-      "source": "AI Funding",
-      "category": "Funding & Business"
+      "id": "5v8rck",
+      "title": "Automation - Efficiency, Cost-Savings, Robotics - Britannica",
+      "description": "Automation - Efficiency, Cost-Savings, Robotics Britannica",
+      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNUXhWRTRjZ3ZaQ3dlLW9JejN0czBCbTBXdEhSN1JMSUdYeU1LVmdHYnhQZWhjc3Rudjh4bDNGWDJhNUhwS3FLSUs5dV9qYTA3R3FpRkRYaG5fcjdTa3Ntb2JBTlY4MWJLZW5ZWlphbDlyNS1GTjdjUGx1MTdCTzNHYUtMUTVIOHRHd0w4VWRpTllIR3RjWmc?oc=5",
+      "date": "2026-02-18T08:00:00.000Z",
+      "source": "AI Business",
+      "category": "Business & Productivité"
+    },
+    {
+      "id": "byiefc",
+      "title": "30 Best ChatGPT Alternatives in 2026 - Simplilearn.com",
+      "description": "30 Best ChatGPT Alternatives in 2026 Simplilearn.com",
+      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQNWtZS19ETk5nUV9mSXpMTlVLTGpPRS1sV1ZPWkVrYmtqUXE5ZU9makVCWjNDQ0p6T0s4Y0RjSVUzQzhFMnROUFNlajl6dDBmOHl3SjNKdGNsb0dSUUlrRnhGaE5KN0tTR2p4a0FsbU9PNjVvWVBLd2VESUR4WERyTg?oc=5",
+      "date": "2026-02-18T08:00:00.000Z",
+      "source": "AI Tutorials",
+      "category": "Tutos & Guides"
     },
     {
       "id": "k283k9",
@@ -2076,24 +2202,6 @@
       "category": "Big Players"
     },
     {
-      "id": "bipmp7",
-      "title": "Everyone is Talking about the SaaSpocalypse, But Why Does it matter for Crypto? - Bitget",
-      "description": "Everyone is Talking about the SaaSpocalypse, But Why Does it matter for Crypto? Bitget",
-      "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9GZ1VtOHdrbWNRUXotclNGWFplTkVtYnZYczdFeG5DOUpSN09HcGJfQURYS2pHazNCc3hZZFNkaERzajBVQ1E3eFdEVEpCdHZNc2ZnaDBtSkRNdkRVWVQ4SWFRQdIBY0FVX3lxTE9GZ1VtOHdrbWNRUXotclNGWFplTkVtYnZYczdFeG5DOUpSN09HcGJfQURYS2pHazNCc3hZZFNkaERzajBVQ1E3eFdEVEpCdHZNc2ZnaDBtSkRNdkRVWVQ4SWFRQQ?oc=5",
-      "date": "2026-02-17T22:02:39.000Z",
-      "source": "AI SaaS",
-      "category": "Business & Productivité"
-    },
-    {
-      "id": "ftc2h1",
-      "title": "Online car dealer Kavak raises $300m, Palo Alto and Booz Allan both make cybersecurity buys - Axios",
-      "description": "Online car dealer Kavak raises $300m, Palo Alto and Booz Allan both make cybersecurity buys Axios",
-      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPQXdzTmZpdjFBaEx2amt4M1hyYWc0bmRQZmJ1SlZob09qU0dCOTNMeGM5ZHhUUHJnRmgtTUFPZkxPYmQ4Y3JuSzU4UkdZcm5GS2lRanVaRHZ2V1NaNnNxNklEak5YbG1oT0RPLUNtNTc1My1SS0tzai0wdmtHT0Y0X3Z4Q1BPemp2VUFyT2U1ZFcteEhXZmFqRlZPREthYnZoY1NDanZmckZUaXJCQ3cxMEJR?oc=5",
-      "date": "2026-02-17T21:18:49.000Z",
-      "source": "AI Funding",
-      "category": "Funding & Business"
-    },
-    {
       "id": "7rter3",
       "title": "Google announces dates for I/O 2026",
       "description": "It's official: Google I/O 2026 will take place from May 19th to 20th. In an announcement on Tuesday, Google says it will share the \"latest AI breakthroughs and updates in products across the company, from Gemini to Android and more\" during the event, which will take place in-person in Mountain View,",
@@ -2101,6 +2209,15 @@
       "date": "2026-02-17T20:56:56.000Z",
       "source": "The Verge AI",
       "category": "Produits & Apps"
+    },
+    {
+      "id": "p16v5b",
+      "title": "Should Crypto Markets Worry About the SaaSpocalypse? - BeInCrypto",
+      "description": "Should Crypto Markets Worry About the SaaSpocalypse? BeInCrypto",
+      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBmZmtpQUFtMlVkczFvRVV4blBOUE9aQ0tFdXU1VHNsN3JnNzI0TUwxam9Dd1oxcVZhdTNXSlZUOWZKTS1UMk1BMWtOUlNJZjdSLVdqSExuTzdRWlh3X2xNRHNDOVpsMF9ldWF1cE9mTHZCZFJrQk0tTw?oc=5",
+      "date": "2026-02-17T20:56:00.000Z",
+      "source": "AI SaaS",
+      "category": "Business & Productivité"
     },
     {
       "id": "p0brxu",
@@ -2184,13 +2301,13 @@
       "category": "Big Players"
     },
     {
-      "id": "tz65zp",
-      "title": "Mistral AI to acquire cloud service provider Koyeb - Seeking Alpha",
-      "description": "Mistral AI to acquire cloud service provider Koyeb Seeking Alpha",
-      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNT2R5UlBCWGJSZjJ2TlZ4VzNYTXE0djAtMUZkR2ZoQThFSDZadlNGUXNaZVRnUEx5eXVmSC1IU0dYRHh1WGhoRzR1WV9pT1g5TGIxSllLT3RZS0dNNGlqYmNPa01WZ3lVdWFBM3JKQndtTFBoWHNnc296R3B3RUEwbF9SMmFLcy1FNml0bUZrTDdpQQ?oc=5",
-      "date": "2026-02-17T16:22:11.000Z",
-      "source": "Mistral AI",
-      "category": "Big Players"
+      "id": "ypr2l4",
+      "title": "AI Startups Funding 2026: 17 US Companies Secure Staggering $100M+ Rounds in Just Two Months - CryptoRank",
+      "description": "AI Startups Funding 2026: 17 US Companies Secure Staggering $100M+ Rounds in Just Two Months CryptoRank",
+      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQbms3STU3Q1BTQ0JhR2lzTjNxbVVFMWc4bzlzX1FJZmRSR0xTZ2xCamh2ay1zNl91VXNQd1JwYTdYVk1Hak82aU0tcmRObGZzdHk0d1lKUE1kTng3dlM0eEFJME00WDU2dFN6OERnS1FVUHl4OTJhTkFyMlJxVGxmWA?oc=5",
+      "date": "2026-02-17T17:21:57.000Z",
+      "source": "AI Funding",
+      "category": "Funding & Business"
     },
     {
       "id": "yd6e4e",
@@ -2200,6 +2317,15 @@
       "date": "2026-02-17T16:15:28.000Z",
       "source": "LangChain",
       "category": "Agents & Automatisation"
+    },
+    {
+      "id": "7bcp3p",
+      "title": "Moving AI from pilots to production for modern utilities - Microsoft Industry Blogs - Microsoft",
+      "description": "Moving AI from pilots to production for modern utilities - Microsoft Industry Blogs Microsoft",
+      "link": "https://news.google.com/rss/articles/CBMikwJBVV95cUxNczFOM1pITFRjWVI0WlJQTzltVThhWDNjVWpyMERaVkNkbHp0Tmt3SV9GOXdRRVFIMG9fckZpNklkemFIeDktVncxUE1RQml6YU4yNHp3cmZ6V0pXRlFuQWQtcmNnNlcxdE9IWmJ6WXprU2pWVmxUd2l1N1BuNVVLVEZneVgxVm9TNjlSUnRCQklLZ3BEaVhQeVRTUk5FZENUSm1UT2N0S1plX3NlNDBZWjI1NTcwTlhNeWRxd3huRHlubm9zc1B0VDZhei1Vc1VidEg1dHhlWU45bklWd1dBbzlVYkVuazlpbW4tR2oyTVZHdjdKaFM4QUZGVVBiMnJTdnA3NUNvdVlhODBYSThvcmdfdw?oc=5",
+      "date": "2026-02-17T16:00:00.000Z",
+      "source": "Microsoft AI",
+      "category": "Big Players"
     },
     {
       "id": "p3dk1m",
@@ -2220,9 +2346,9 @@
       "category": "Design & Créatif"
     },
     {
-      "id": "jlxmqq",
-      "title": "US AI Startups Secure Mega Funding Rounds in Early 2026 - Букви",
-      "description": "US AI Startups Secure Mega Funding Rounds in Early 2026 Букви",
+      "id": "qsui0s",
+      "title": "US AI Startups Secure Mega Funding Rounds in Early 2026 - mezha.net",
+      "description": "US AI Startups Secure Mega Funding Rounds in Early 2026 mezha.net",
       "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQUEhpU3NLcUhOc2F0QndPeEJiZFQzVVo3M3g0VTBCbGp2aTlnSlFCTUV5WTZ5a3NkUE83eEhYM3lSYnRpY1VyNTVOOHkzUlhQdl9KUFlmVHBtLTBCUmJZUjRkeUJ3RUFxOVVZNEJfUDkxOXQ4eHVleC1kbnZhRl9rMjllVmItc0p3VVdDaNIBkgFBVV95cUxNOGhpWDhLOE5NdUhYYTJ0U2I2ZXE4OGNvMFRsdUtBTXdlZnZnLUY5TXNlOUhsQ0lHY3ktSjQzalc3ZXFsMzd0TmRveWtvQXFTTlhaQmZQNXBSd1EwRjlXRnN5bEVVS3Y3cVJhWTZ2Yi1QT3FHOXU4aXhWaC1GTHJBSEZoWVNzZ3BGWXV5Z3ZaNW12UQ?oc=5",
       "date": "2026-02-17T15:37:22.000Z",
       "source": "AI Funding",
@@ -2236,24 +2362,6 @@
       "date": "2026-02-17T15:24:08.000Z",
       "source": "Mistral AI",
       "category": "Big Players"
-    },
-    {
-      "id": "8dji5m",
-      "title": "Software Stocks Under Siege by New AI Tools: The 'SaaSpocalypse' of 2026 - FinancialContent",
-      "description": "Software Stocks Under Siege by New AI Tools: The 'SaaSpocalypse' of 2026 FinancialContent",
-      "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxOYm9qMzNQNWtZVkw5NklyTlk2R2YtMHF2U081OWluaGNOb1pEcUItcFlsU0Ffb1RBOUNuRlQ2OHdpMnVfQkptNjd4YXRXRXY3VXdTSjZSZU1BaVBfUUlpQ0JvTUNUYnhrVmNfZmR2cnRXdUNDYkp2T1JzajJ0M1diaDZuSWpwVWZYcmk1cUw3VHFxTVdTVVZJMHl6NkhfMG5XZFhmeldhT3FKMWQ4QWNib1NLNUpXQm53UFhNUWFNdk94aUFjQndJNFFtWlJzY2tIdGdXTmFzWndfZjdr?oc=5",
-      "date": "2026-02-17T15:19:00.000Z",
-      "source": "AI SaaS",
-      "category": "Business & Productivité"
-    },
-    {
-      "id": "xcm7hj",
-      "title": "🙌ByteDance’s 'Gemini 3.0 Moment': Meet Seedance 2.0 and Seed2.0 - Recode China AI",
-      "description": "🙌ByteDance’s 'Gemini 3.0 Moment': Meet Seedance 2.0 and Seed2.0 Recode China AI",
-      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE05VDZOamlLazVBbFZDbWdGWVhVQzBpX3U4amhuU21pek1CZ1h4THlIaG5FekRGckVsaEU0X3ozY2dQajVJVkI3Vzg1NzkzeThmRWoyZU9ZZlpvRTFSN2VZdDB3RmhVdWZJMGZpSTVRcDJRSWk4a1k0Zw?oc=5",
-      "date": "2026-02-17T15:13:11.000Z",
-      "source": "AI Tutorials",
-      "category": "Tutos & Guides"
     },
     {
       "id": "mckn3y",
@@ -2382,6 +2490,15 @@
       "category": "Funding & Business"
     },
     {
+      "id": "pxzh14",
+      "title": "Eric Trump joins $1.5B bet on US-made AI defense drones - Stock Titan",
+      "description": "Eric Trump joins $1.5B bet on US-made AI defense drones Stock Titan",
+      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPTkI2ZGZBUkpFUE8yZ0ZzbEdQa2hZR1lIbm9sZGRoRC1HaURiX1h0Rjd1SkdoZXdzX3lYSXVlZHFkVW5CTGR5OUY0eGp3amhVUkxIQnFfSWczLU1LY1NsTFpMQUpYQzBocFJaZ1I4UzAxT1AtakRoQUZNUTQ3dmEyc3lLMG9lYUMxRjhnOUFwN2dRY2RnbzBJcGU2U211YUo0cC1nV1VHRGpnLUpQQkNFV0JkVjhuN24y?oc=5",
+      "date": "2026-02-17T14:00:00.000Z",
+      "source": "AI M&A",
+      "category": "Funding & Business"
+    },
+    {
       "id": "8oi75u",
       "title": "Accelerating discovery in India through AI-powered science and education",
       "description": "Google DeepMind brings National Partnerships for AI initiative to India, scaling AI for science and education",
@@ -2422,15 +2539,6 @@
       "title": "Automated security audits now available for skills.sh",
       "description": "Skills on the now have automated security audits to help developers use skills with confidence.skills.sh Working with our partners , , and , these independent security reports allow us to rapidly scale and audit over 60,000 skills and counting.GenSocketSnyk provides greater ecosystem support with:Sk",
       "link": "https://vercel.com/changelog/automated-security-audits-now-available-for-skills-sh",
-      "date": "2026-02-17T13:00:00.000Z",
-      "source": "Vercel",
-      "category": "Dev & Optimisation"
-    },
-    {
-      "id": "6z4ama",
-      "title": "Recraft V4 on AI Gateway",
-      "description": "Recraft V4 is now available on AI Gateway. A text-to-image model built for professional design and marketing use cases, V4 was developed with input from working designers. The model has improvements with photorealism, with realistic skin, natural textures, and fewer synthetic artifacts. It also prod",
-      "link": "https://vercel.com/changelog/recraft-v4-on-ai-gateway",
       "date": "2026-02-17T13:00:00.000Z",
       "source": "Vercel",
       "category": "Dev & Optimisation"
@@ -2481,13 +2589,13 @@
       "category": "Tutos & Guides"
     },
     {
-      "id": "hiatqp",
-      "title": "Hackers Exploit ‘Summarize With AI’ Buttons To Inject Malicious Memory Prompts - Cyber Press",
-      "description": "Hackers Exploit ‘Summarize With AI’ Buttons To Inject Malicious Memory Prompts Cyber Press",
-      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBCTy02NEo3dU1JNEdHbkZOTEpqcHUyVmZrOVpYeEI0bEYteVFyeTl4WnZUM2FPNHJ3WUMyenBwUUhQejBHQnRxTHNxZ3lLaHVad0NEVG1XTy1TelhnODZYTm40OFVqdFQtdzNiUA?oc=5",
-      "date": "2026-02-17T08:27:11.000Z",
-      "source": "AI Tutorials",
-      "category": "Tutos & Guides"
+      "id": "wt63oq",
+      "title": "A Long Road Ahead: Effective Remedies for Artificial Intelligence Harms in the European Union - - Center for Democracy and Technology",
+      "description": "A Long Road Ahead: Effective Remedies for Artificial Intelligence Harms in the European Union - Center for Democracy and Technology",
+      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPdlpxaGQ1ajdyYmxTZzM1b3p3TFJqT0E1Y3NyOEVCTk9Ya0Y1ckgxdUI3S2ZqQk84SGtMcVM5bzV1Y24zcWlodTA4d0d0S2c3bDZSVTRMbG5rN2p1MGtnWVNWblZfSWoyeTNBZkplMFVJdzlzdkZzdVJqWk5pNTFRcFRCVnh4M0FzdTBZMEdUa0I3UDN6cGRWTWtCMm9hNzNxdjhMSEZFeU5ITXpodnlhd3RJdlU2R25RNnc?oc=5",
+      "date": "2026-02-17T09:20:33.000Z",
+      "source": "AI Regulation",
+      "category": "Sécurité & Éthique"
     },
     {
       "id": "9a5nqb",
@@ -2506,6 +2614,15 @@
       "date": "2026-02-17T08:00:00.000Z",
       "source": "AI Image Gen",
       "category": "Design & Créatif"
+    },
+    {
+      "id": "fbyur6",
+      "title": "Orbital Compute and Space AI Stocks: The 2026 Breakout Setup - InvestorPlace",
+      "description": "Orbital Compute and Space AI Stocks: The 2026 Breakout Setup InvestorPlace",
+      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNNEhyaFlBYkZLZjBSQWdKaFlENlZUQVg1REtQY1Q5ME5CU1kwN3dfWGpHSmJxRkZ5WlNJM2dYdGhyaEFxY0RzeFZOQWpXQ1NNQWxRNTdmQ294dTVfRVdKb1VBUENQNkNnSC10RjFnZFJfWWJGMUFvNDBydk02RllRX3I1MnBmZEF6a1ltY1gyTFBKVnpzRGQwMjdKWU9sOFhITFhvbXVaWQ?oc=5",
+      "date": "2026-02-17T08:00:00.000Z",
+      "source": "AI M&A",
+      "category": "Funding & Business"
     },
     {
       "id": "any8ri",
@@ -2533,15 +2650,6 @@
       "date": "2026-02-17T04:30:57.000Z",
       "source": "Simon Willison",
       "category": "Dev & Optimisation"
-    },
-    {
-      "id": "fo0vmo",
-      "title": "Infosys shares rise 3% on partnership with Anthropic, lead Nifty IT 2% higher - TradingView",
-      "description": "Infosys shares rise 3% on partnership with Anthropic, lead Nifty IT 2% higher TradingView",
-      "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOakpMZ0xTb3gxWlNWZWlCcnUtZ0g1dkQ4LVF2LWZmNDcxQl9XREJMM1piYUlDSElHUTVYVEI1NzNaYXNmcTJvMXZwSWR5QTVsdFV6MmhYMnRaQUNpVUx3QXFmN3dnU1pzazNJWXQycnlTQXc2bnF0OENsNTMzbnlkcTRFd1dxM3E0RzFvRktmRnpNallQeUhkMXNnX2ZDX2pWQ280c1paXzlvaGZlSHhQM2lFMzlld3Y3d3ZRTWdvUFJuOHZPTldhSnlteUMzQlhUdjUw?oc=5",
-      "date": "2026-02-17T04:29:00.000Z",
-      "source": "AI SaaS",
-      "category": "Business & Productivité"
     },
     {
       "id": "ma2kvb",
@@ -2578,6 +2686,15 @@
       "date": "2026-02-16T22:29:17.000Z",
       "source": "AI Coding",
       "category": "Dev & Optimisation"
+    },
+    {
+      "id": "ejtwxq",
+      "title": "Meta’s AI Engine Ignites 24% Ad Growth, Even as Total Revenue Growth Moderates to 3% - FinancialContent",
+      "description": "Meta’s AI Engine Ignites 24% Ad Growth, Even as Total Revenue Growth Moderates to 3% FinancialContent",
+      "link": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxNMGs0b05Jc2hlVXhKQ3lRVThqWDlRQzQ1V2s2djZDNFhHZXd3c3M5YWt1cGJQTmNldlNuZGNLZGlwNVI0cFByWWZ0bm9yeFFreS13MnVpY1NGTlJQbHhXR2ZmZ1NkS19kRV9RRTg2Wmg1UUFSYm5UTlBrZjNOMXRibkVscUhfWVRrMVdZallqSFQ1aV9VQWdSMzlXeVRRenR5d2xsYklfSWwxYTJIY3hhTE9YcEstcDZWTmFYOVZSTl8wMlVXeEpMeFl1TlEwX3JqRUJPUm00MjdWRVE5dlE0ZVAycVBOelA3QTI0?oc=5",
+      "date": "2026-02-16T22:24:00.000Z",
+      "source": "Meta AI",
+      "category": "Big Players"
     },
     {
       "id": "pb7qhd",
@@ -2641,24 +2758,6 @@
       "date": "2026-02-16T13:43:15.000Z",
       "source": "AI Regulation",
       "category": "Sécurité & Éthique"
-    },
-    {
-      "id": "5c1quw",
-      "title": "deBridge launches MCP server for AI agents to automate multichain transactions - 디지털투데이",
-      "description": "deBridge launches MCP server for AI agents to automate multichain transactions 디지털투데이",
-      "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPMjB4VVJqdzJaeGhkdE5Ma2FZVmZwY3VBTElOY25jRVBVZTc2b1R4QXdSeVljMEU3eGg0bGt0ekdYcF9ZNEItM2lWWXhUN2RncDI4aGJJWTFpYXBieVpySG55TlJZWjN1R25qckx3Zkx5VVF4VEFSeFVBeHo0QlBUMkZrU2tTc0F2R0N5dEY1TFB0WDMtWDdLeHVwWDZWdkxSSEVRdkRxOG9qZkRmYUtEZmhLcU15Nm1QMGFFQW03QQ?oc=5",
-      "date": "2026-02-16T13:35:18.000Z",
-      "source": "AI Coding",
-      "category": "Dev & Optimisation"
-    },
-    {
-      "id": "2lif1x",
-      "title": "Exclusive: Pentagon warns Anthropic will \"pay a price\" as feud escalates - Axios",
-      "description": "Exclusive: Pentagon warns Anthropic will \"pay a price\" as feud escalates Axios",
-      "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPQjBuYmx6a2NKQVRydW1lcVJid1ItcFFKN3g5NkdYaUM1Qm5fZ1BXMm9ZUXpVcXAxNGV6ajlRa3ozaGJPTDVQQ0pkZ0Zxdlo0YmhBUmZkNEQ1SXIzdXVZcTktSFVUc200ZmtiMTQ3MzVTcEdsWDhwbGRDUG1XYjhUNTc0eWVpTklXa2c?oc=5",
-      "date": "2026-02-16T12:47:10.000Z",
-      "source": "Anthropic",
-      "category": "Big Players"
     },
     {
       "id": "cxbs9y",
@@ -2733,15 +2832,6 @@
       "category": "Design & Créatif"
     },
     {
-      "id": "swdw7b",
-      "title": "How Is AI Regulated? Examples, Benefits, & Drawbacks - Britannica",
-      "description": "How Is AI Regulated? Examples, Benefits, & Drawbacks Britannica",
-      "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE91SzNWUlViMlZGZUVheTdwU3ZNZC13b2RYWGJpS01od3NmeHpoV1dsZzA0TmhKdm5QODlvZFc4bldSbktENkJiX3lQS2ZRN1hHVVdNc2xfdVctemswVHdLeE1EUUdLNWJY?oc=5",
-      "date": "2026-02-16T05:44:00.000Z",
-      "source": "AI Regulation",
-      "category": "Sécurité & Éthique"
-    },
-    {
       "id": "869ivi",
       "title": "How to Regulate, or Not Regulate, AI - The Regulatory Review",
       "description": "How to Regulate, or Not Regulate, AI The Regulatory Review",
@@ -2769,10 +2859,10 @@
       "category": "Big Players"
     },
     {
-      "id": "4vmw98",
+      "id": "2phhle",
       "title": "Exclusive | Pentagon Used Anthropic’s Claude in Maduro Venezuela Raid - The Wall Street Journal",
       "description": "Exclusive | Pentagon Used Anthropic’s Claude in Maduro Venezuela Raid The Wall Street Journal",
-      "link": "https://news.google.com/rss/articles/CBMitwNBVV95cUxQeGpEenc2aUV6MGJ5YUJmWE1JZ1RPbmpOWk5oU2FZa1lFb2MwcWV2N0EwOTFMOUtYVkw1ZDZtcjBuckM3c2lYb2YzSFVzeVN2WXhUVnZhOXI3R2dmMS1KaENocFExNFVyOGZYN00zRjZMaWdoZHlMWkZ5N3U4ZWtZcEVQaXpnaW5nbDVObUdHTmROcldfWHhDcU41SlpjTXlCUGhNLURfV1B6UlRKZlRZblZnMWxOQTFYcVh2eEkyMS1tMTk1a1dzOXZtQXlEUUtlUFRncjFmU290cnRBS3ZOTTZBbW42dGQzazNsczZNWFlQQ0ZHV0loVk5ZY0dJV2tqVUMzSHR1Zy16ZVFYZ2FsVnBLX3MzUFFtUEItdkxuUDFQcUpIejU4UVFuV0dhQnRDLVRzTUZZUHFKcGRVVzlkV0dHblRlRmVhUXdtcFVFLXV4Q0ZuV251QXAyWWVZT1ptMEtKVzlDa2VLNy0yWWRPS2drZHZPRjdEWmJRRTBMYzBTZlZFTFVGMlJ3blU4WWQxYzU0VHIzU0hSSXNVb1ZvVHRRVkx6ZlY3Unoya3RQNENPajdKRW9R?oc=5",
+      "link": "https://news.google.com/rss/articles/CBMitwNBVV95cUxQWjhYTTktQlpwSGhSSkU5SXJGREJJQ2w3dkt5RDBjb1FBWk9FMVpXZ3FKcFFadFc5MmpVWkY2WGlfeHhBR3VYeTNOVldEX3NUMkRRU3BoX3ZtcUdXai1zQ3F6UnV0M3owS2dLNTFhZy1Zbkd1a2tMWmZDUnJVUkRkeDk4MXQ2V3E5dnFGWl80Vm0zUTJ0aU1CVnhOZXZDT2RMWHBYM25nbWNZTXFCYnN3T1JPc2xGa25BOGhRWF9XZF9vRGVfekFfMjhYVjdYY0Z1LWVpN2FucHZsSF9JMTRuWkNqQmpLNlFEb3ZXN3BhbnlFZURIbF9vb0p0dnA0YWswQXhwYk9zall6MG1QdjF1NUNZRE14MzlHSnczeng3X0VxRDUwOXVkbHhPaVRScnZ6QjBCNzdvUjVzQ00xWkR1Q3lKc000MXpjanUxbVZCMFV0VHJfbkwzMDlaLXVKeVJzR2UwRWROSFFTM09ILUtpN1I4WGNsT1ZpaWZXdnhFTDVWcTBXTldYTFpBZzB4X3FoUlFzN1Z6WHlwSFNadGt0NmxNRHI5MWNGajEydkttY19Pd1d1RURJ?oc=5",
       "date": "2026-02-15T21:32:00.000Z",
       "source": "Anthropic",
       "category": "Big Players"
@@ -2796,15 +2886,6 @@
       "category": "Produits & Apps"
     },
     {
-      "id": "e1rsb7",
-      "title": "From JPMorgan to Wells Fargo, here's what industry leaders are saying about AI and head count - Business Insider",
-      "description": "From JPMorgan to Wells Fargo, here's what industry leaders are saying about AI and head count Business Insider",
-      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNZDhtZUQwaFJwTmlTa1h6cjhkclRMUFVnU01qZWxSVG1BMkY1TWtWbUpYWjhTVktMTktudng1SEZVOHJid2dQdUJfS3hnTVhtUGtVMk1BU19SVUR2SGxHVmhjZ0owN3pnaTZiRGVkS3JSdDZucDFMcWRGcGdxZEJNbjhZNXZGdnFNTVFVWFJZeWlxVTdjYVFJaGlB?oc=5",
-      "date": "2026-02-15T13:19:00.000Z",
-      "source": "AI Business",
-      "category": "Business & Productivité"
-    },
-    {
       "id": "ue13nt",
       "title": "How Students Are Using This AI Tool to Build Projects Faster Than Ever - TechJuice",
       "description": "How Students Are Using This AI Tool to Build Projects Faster Than Ever TechJuice",
@@ -2812,15 +2893,6 @@
       "date": "2026-02-15T12:13:41.000Z",
       "source": "AI Coding",
       "category": "Dev & Optimisation"
-    },
-    {
-      "id": "uzd53a",
-      "title": "A beginner’s guide to Tmux: a multitasking superpower for your terminal",
-      "description": "One of the new things I’ve come across recently, while researching command-line-based coding assistants, is the mention and use of a tool I hadn’t heard of before. That tool is called Tmux, which stands for Terminal Multiplexer. In the simplest possible terms, Tmux allows you to split up a single te",
-      "link": "https://towardsdatascience.com/a-beginners-guide-to-tmux-a-multitasking-superpower-for-your-terminal/",
-      "date": "2026-02-15T11:50:00.000Z",
-      "source": "Towards Data Science",
-      "category": "Tutos & Guides"
     },
     {
       "id": "wkxk18",
@@ -2958,15 +3030,6 @@
       "category": "Tutos & Guides"
     },
     {
-      "id": "vfgerk",
-      "title": "Jacaruso Launches Lead Shark, Hotel-Specific AI Sales Intelligence - The Desert Sun",
-      "description": "Jacaruso Launches Lead Shark, Hotel-Specific AI Sales Intelligence The Desert Sun",
-      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPREYzOHp5UUFTeUJWYW14LTFyQjFvaU1keVFVdURPb3FhTFg2cjVaNXpSaXFwX2tjRVZYYlQ4dURyTUpRcElsUkdxTmtpd2xnUDJIYVRLaGgtSWpZX3ozRmh4TGhUQ1lQMVB6WTdCdWRYQXFlMDBNQ2hjTTh4X0tYakItUzNjbUJDdDhKYmhtZnFyT09aeWprM3E1QmFCb0hWa3NZVklLOXA5bW5Ba04tSXU5SjBFSzQwTHc?oc=5",
-      "date": "2026-02-13T23:59:11.000Z",
-      "source": "AI SaaS",
-      "category": "Business & Productivité"
-    },
-    {
       "id": "3q2lgg",
       "title": "Pentagon's use of Claude during Maduro raid sparks Anthropic feud - Axios",
       "description": "Pentagon's use of Claude during Maduro raid sparks Anthropic feud Axios",
@@ -2983,6 +3046,15 @@
       "date": "2026-02-13T22:45:48.000Z",
       "source": "AI Products",
       "category": "Produits & Apps"
+    },
+    {
+      "id": "m97bmz",
+      "title": "Artificial Intelligence News for the Week of February 13; Updates from AWS, Cisco, Cloudera & More - solutionsreview.com",
+      "description": "Artificial Intelligence News for the Week of February 13; Updates from AWS, Cisco, Cloudera & More solutionsreview.com",
+      "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPRFgtcnFGR1NrcHo1Rk1pbDhhaFh0eldyRTFndUFEb3FTbWZ4NXVsaE1md3Z2cmVtSjlOd3AycjlUT3I3RkdHaXZEcmFYMVh1MGd5OTQ1eVp6c09fdUYweTRKWW9IS3kxTXRVOC12bThGRGFWcnJQN3FySzJ1a1F4WTZRZVA3cUgtZWpqYlp2WHpFcVY3blI0RHVXelU4NTBTYlpxZkRWMm42YlExWmhEWnJjTmFGbGdsdnB3MTdyWQ?oc=5",
+      "date": "2026-02-13T22:01:58.000Z",
+      "source": "AI Agents",
+      "category": "Agents & Automatisation"
     },
     {
       "id": "6qx17v",
@@ -3039,15 +3111,6 @@
       "category": "Sécurité & Éthique"
     },
     {
-      "id": "zdl4m3",
-      "title": "Inside the Claude Code Obsession - Analytics India Magazine",
-      "description": "Inside the Claude Code Obsession Analytics India Magazine",
-      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1YTXROY3J3QVB3aTVYVDU3LWVmeEdXRjFhUEJmblVQRnY0VTZmalFMbThXbGRkLWg3WGdVYVpHcHZqdjduNE1NRjR0OTVNT0RfUGlVcThQS3JLaFN3aVVldnBYVzdpMHRnZEstaXJPX29La2VkNFJKdmFRdFQ2dGs?oc=5",
-      "date": "2026-02-13T17:44:40.000Z",
-      "source": "AI Coding",
-      "category": "Dev & Optimisation"
-    },
-    {
       "id": "9fwavs",
       "title": "Anthropic’s Super Bowl ads mocking AI with ads helped push Claude’s app into the top 10 - TechCrunch",
       "description": "Anthropic’s Super Bowl ads mocking AI with ads helped push Claude’s app into the top 10 TechCrunch",
@@ -3055,60 +3118,6 @@
       "date": "2026-02-13T17:16:27.000Z",
       "source": "Anthropic",
       "category": "Big Players"
-    },
-    {
-      "id": "pk9n2e",
-      "title": "Anthropic and Databricks raise billions more. Next stop: IPOs? - SiliconANGLE",
-      "description": "Anthropic and Databricks raise billions more. Next stop: IPOs? SiliconANGLE",
-      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQRml0QWZra3Rjc3pPa0FBUlJCUVl4TFdYemJXRFhrdlZMWGt3TFRhSWVxcFFvTGxoMTZVVnI5amJPRzBDMkhSRGF0YVpUSGdRNEU2NDAzbjNPaG54VEFfMjhfYlk5VHJxWjg3VXdHQTVTT2lWZVczalRHOW85MEVhMWhnM1BOcmZtU3M4clJHZ2s?oc=5",
-      "date": "2026-02-13T15:45:06.000Z",
-      "source": "AI Funding",
-      "category": "Funding & Business"
-    },
-    {
-      "id": "ko071a",
-      "title": "In less than 24 months, India AI Mission has set up a foundation for development of AI ecosystem - prameyanews.com",
-      "description": "In less than 24 months, India AI Mission has set up a foundation for development of AI ecosystem prameyanews.com",
-      "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPLUJpUzl5Q0JVa192V21qOEFwRUtSUUdlRU1MMWFRRmlEZDctM3BTUkc5ekQ1TGRTS2R1WWtTVTNja3dYdGlfcHNQSFI2UVNuckVHZUc5di1SXzB0VUNRbDJFTGFiMU5pOTBaX0tpUHYzOE02MkU4U3p1ME5OVlpVcWRsd29LalA5d2R4THZFTUFKeUVtT1gweFZ1OWpBbXRUTU5kcVhOT1RWVVluQlNBTXJuRHVNUjN0U3NQYzZobXk?oc=5",
-      "date": "2026-02-13T14:55:37.000Z",
-      "source": "AI Safety",
-      "category": "Sécurité & Éthique"
-    },
-    {
-      "id": "rlydan",
-      "title": "Wolters Kluwer Health pushes deeper into agentic AI to tackle medication workflows - Fierce Healthcare",
-      "description": "Wolters Kluwer Health pushes deeper into agentic AI to tackle medication workflows Fierce Healthcare",
-      "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQX3VnUmZ5LTlZbmpGX0g4VTFUMHdSZ1RFaUNySGxTZzBXR0h5Z1FSWFNfdmlUUHRWSXcyV2VzaWZNZ1hjMm1GZldaSGNQOVJvYV8zVWlJZlVTNmdUR0FkcFY1LXdVaXprYjkwTlM5S0RJVUtoQWRsVDk3WmMtUkMxSV9JTE04Ynl6V2txVVdZWV8zUzh5dmdsYkx0YWdmV1dpRTFxZjhaLVB1cmRiMS1ScnBmN0lmdkJBSVFybkQwVnlzT1k1Y3VSNnlLcw?oc=5",
-      "date": "2026-02-13T14:15:00.000Z",
-      "source": "AI Agents",
-      "category": "Agents & Automatisation"
-    },
-    {
-      "id": "y83yx5",
-      "title": "Automate repository tasks with GitHub Agentic Workflows - The GitHub Blog",
-      "description": "Automate repository tasks with GitHub Agentic Workflows The GitHub Blog",
-      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNOE9iRkdqSHFzRkJERU9jVV9rRUpuZG92c3p0a3ROU1N4RVpKOTJHb21IQWkzZ1RQVW8tQ0ZZR0FHSWkzMWlaQUw0UFdVb2duM1dyYU5tQ3lWTlo3bHpHX3o0MVJLZnRwaGtBNEJhVzBVSUJYXzNNaFZTeFFMUmdQTFZESnU3WUxXbndEaXA1Zw?oc=5",
-      "date": "2026-02-13T14:01:11.000Z",
-      "source": "AI Agents",
-      "category": "Agents & Automatisation"
-    },
-    {
-      "id": "u4jzpw",
-      "title": "GitHub Agentic Workflows are now in technical preview - The GitHub Blog",
-      "description": "GitHub Agentic Workflows are now in technical preview The GitHub Blog",
-      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPMTFiZm5MNWpWVDhyUERPSDViNWVEdnU2Tl80WWFHNUZBNGJrS1ZZUk4tWWtyVnlPeV9lZkhaT08zcXBEZVFqMGJRN2ZEVElMVFUyaGk5aW9fM3dKZmJ6SlJGTUhOamdveTM5MUZEZXJOOUwxSGF2X0pSY3RrcHBzTXFTVVdFZ3hjbXQ0QVFjNDR1TXpTZERRcVl0Yw?oc=5",
-      "date": "2026-02-13T14:00:26.000Z",
-      "source": "AI Agents",
-      "category": "Agents & Automatisation"
-    },
-    {
-      "id": "i3rn4f",
-      "title": "Enterprise AI startup Cohere tops revenue target as momentum builds to IPO: Investor memo - CNBC",
-      "description": "Enterprise AI startup Cohere tops revenue target as momentum builds to IPO: Investor memo CNBC",
-      "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE43Y2labXJFeHY1TGpGU3ptaDE2cUtSbHl6Mk15MVRsWmViNjlqM3VmS3RJWTFWQXN1T2tZSFNLdXpfSm1oOWZXenNlaUxkWHlPVW5WTk9pbWFaNkx5QXdrLWRjcDNVeHVfSjVxN0hnaVAzc3Fs0gF6QVVfeXFMTjFfTllMc1JWSG9CSmZ2QzZTLVc1V0FLT0ZWUzU1eVdaaGoycTN2M3lDbEFodDhtdTJ3eWhFU1BTV1R3NTJsTVhlaC01dkhBVTVpWUxtc3J1V0lpbEVIcDl1WmZRUmdhR1FwZkVNQjBTalpmWlQwMWl4Z0E?oc=5",
-      "date": "2026-02-13T14:00:01.000Z",
-      "source": "AI M&A",
-      "category": "Funding & Business"
     },
     {
       "id": "200338",
@@ -3728,15 +3737,6 @@
       "description": "",
       "link": "https://huggingface.co/blog/upskill",
       "date": "2026-01-28T00:00:00.000Z",
-      "source": "Hugging Face",
-      "category": "Big Players"
-    },
-    {
-      "id": "bopg2r",
-      "title": "Architectural Choices in China's Open-Source AI Ecosystem: Building Beyond DeepSeek",
-      "description": "",
-      "link": "https://huggingface.co/blog/huggingface/one-year-since-the-deepseek-moment-blog-2",
-      "date": "2026-01-27T15:01:45.000Z",
       "source": "Hugging Face",
       "category": "Big Players"
     },
